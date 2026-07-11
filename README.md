@@ -14,3 +14,4 @@
 | 12 | [2202C1 - Lost Civilization Easy Version](./Codeforces/basic/2202C1%20-%20Lost%20Civilization%20Easy%20Version) | [Codeforces](https://codeforces.com/problemset/problem/2202/C1) | basic | 11 Jul 2026 | 07:17 pm |
 | 13 | [2202A - Parkour Design](./Codeforces/basic/2202A%20-%20Parkour%20Design) | [Codeforces](https://codeforces.com/problemset/problem/2202/A) | basic | 11 Jul 2026 | 07:17 pm |
 | 14 | [2198A - Twice](./Codeforces/basic/2198A%20-%20Twice) | [Codeforces](https://codeforces.com/problemset/problem/2198/A) | basic | 11 Jul 2026 | 07:17 pm |
+| 15 | [2192A - String Rotation Game](./Codeforces/basic/2192A%20-%20String%20Rotation%20Game) | [Codeforces](https://codeforces.com/problemset/problem/2192/A) | basic | 11 Jul 2026 | 07:17 pm |

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 14,
+  "todayCount": 15,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 12
+    "basic": 13
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -24,10 +24,11 @@
     "Codeforces_32B_-_Borze": true,
     "Codeforces_2202C1_-_Lost_Civilization_Easy_Version": true,
     "Codeforces_2202A_-_Parkour_Design": true,
-    "Codeforces_2198A_-_Twice": true
+    "Codeforces_2198A_-_Twice": true,
+    "Codeforces_2192A_-_String_Rotation_Game": true
   },
   "activityHistory": {
-    "2026-07-11": 14
+    "2026-07-11": 15
   },
   "todayProblems": [
     "Exactly One Consecutive Set Bits Pair",
@@ -43,6 +44,7 @@
     "32B - Borze",
     "2202C1 - Lost Civilization Easy Version",
     "2202A - Parkour Design",
-    "2198A - Twice"
+    "2198A - Twice",
+    "2192A - String Rotation Game"
   ]
 }

@@ -1,0 +1,33 @@
+import java.util.*;
+import java.io.*;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int t = Integer.parseInt(br.readLine().trim());
+        StringBuilder sb = new StringBuilder();
+        while (t-- > 0) {
+            int n = Integer.parseInt(br.readLine().trim());
+            String s = br.readLine().trim();
+            int circleTransitions = 0;
+            boolean hasSameAdj = false;
+            for (int i = 0; i < n; i++) {
+                char a = s.charAt(i);
+                char b = s.charAt((i + 1) % n);
+                if (a != b) {
+                    circleTransitions++;
+                } else {
+                    hasSameAdj = true;
+                }
+            }
+            int ans;
+            if (hasSameAdj) {
+                ans = circleTransitions + 1;
+            } else {
+                ans = circleTransitions;
+            }
+            sb.append(ans).append("\n");
+        }
+        System.out.print(sb);
+    }
+}
