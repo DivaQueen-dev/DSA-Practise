@@ -1,14 +1,14 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 13,
+  "todayCount": 14,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 11
+    "basic": 12
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -23,10 +23,11 @@
     "Codeforces_2203A_-_Towers_of_Boxes": true,
     "Codeforces_32B_-_Borze": true,
     "Codeforces_2202C1_-_Lost_Civilization_Easy_Version": true,
-    "Codeforces_2202A_-_Parkour_Design": true
+    "Codeforces_2202A_-_Parkour_Design": true,
+    "Codeforces_2198A_-_Twice": true
   },
   "activityHistory": {
-    "2026-07-11": 13
+    "2026-07-11": 14
   },
   "todayProblems": [
     "Exactly One Consecutive Set Bits Pair",
@@ -41,6 +42,7 @@
     "2203A - Towers of Boxes",
     "32B - Borze",
     "2202C1 - Lost Civilization Easy Version",
-    "2202A - Parkour Design"
+    "2202A - Parkour Design",
+    "2198A - Twice"
   ]
 }
