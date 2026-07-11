@@ -1,0 +1,62 @@
+import java.util.*;
+import java.io.*;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int t = Integer.parseInt(br.readLine().trim());
+        StringBuilder sb = new StringBuilder();
+        
+        while (t-- > 0) {
+            int n = Integer.parseInt(br.readLine().trim());
+            int[] p = new int[n];
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            for (int i = 0; i < n; i++) p[i] = Integer.parseInt(st.nextToken());
+            
+            // Find position of n
+            int posN = 0;
+            for (int i = 0; i < n; i++) if (p[i] == n) posN = i;
+            
+            int bestCount = countUgly(p, -1, -1);
+            int bestI = -1, bestJ = -1;
+            
+            // Try swapping posN with every other position
+            for (int j = 0; j < n; j++) {
+                if (j == posN) continue;
+                int cnt = countUgly(p, posN, j);
+                if (cnt < bestCount) {
+                    bestCount = cnt;
+                    bestI = posN;
+                    bestJ = j;
+                }
+            }
+            
+            if (bestI != -1) {
+                int tmp = p[bestI]; p[bestI] = p[bestJ]; p[bestJ] = tmp;
+            }
+            
+            for (int i = 0; i < n; i++) {
+                if (i > 0) sb.append(' ');
+                sb.append(p[i]);
+            }
+            sb.append('\n');
+        }
+        
+        System.out.print(sb);
+    }
+    
+    static int countUgly(int[] p, int si, int sj) {
+        int n = p.length;
+        int count = 0, maxSoFar = 0;
+        for (int i = 0; i < n; i++) {
+            int val = p[i];
+            if (i == si) val = p[sj];
+            else if (i == sj) val = p[si];
+            if (val > maxSoFar) {
+                maxSoFar = val;
+                count++;
+            }
+        }
+        return count;
+    }
+}

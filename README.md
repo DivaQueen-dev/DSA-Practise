@@ -7,3 +7,4 @@
 | 5 | [1760A - Medium Number](./Codeforces/basic/1760A%20-%20Medium%20Number) | [Codeforces](https://codeforces.com/problemset/problem/1760/A) | basic | 11 Jul 2026 | 07:16 pm |
 | 6 | [2200A - Eating Game](./Codeforces/basic/2200A%20-%20Eating%20Game) | [Codeforces](https://codeforces.com/problemset/problem/2200/A) | basic | 11 Jul 2026 | 07:16 pm |
 | 7 | [2205B - Simons and Cakes for Success](./Codeforces/basic/2205B%20-%20Simons%20and%20Cakes%20for%20Success) | [Codeforces](https://codeforces.com/problemset/problem/2205/B) | basic | 11 Jul 2026 | 07:16 pm |
+| 8 | [2205A - Simons and Making It Beautiful](./Codeforces/basic/2205A%20-%20Simons%20and%20Making%20It%20Beautiful) | [Codeforces](https://codeforces.com/problemset/problem/2205/A) | basic | 11 Jul 2026 | 07:16 pm |

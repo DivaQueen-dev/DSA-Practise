@@ -1,14 +1,14 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -17,10 +17,11 @@
     "Codeforces_1915A_-_Odd_One_Out": true,
     "Codeforces_1760A_-_Medium_Number": true,
     "Codeforces_2200A_-_Eating_Game": true,
-    "Codeforces_2205B_-_Simons_and_Cakes_for_Success": true
+    "Codeforces_2205B_-_Simons_and_Cakes_for_Success": true,
+    "Codeforces_2205A_-_Simons_and_Making_It_Beautiful": true
   },
   "activityHistory": {
-    "2026-07-11": 7
+    "2026-07-11": 8
   },
   "todayProblems": [
     "Exactly One Consecutive Set Bits Pair",
@@ -29,6 +30,7 @@
     "1915A - Odd One Out",
     "1760A - Medium Number",
     "2200A - Eating Game",
-    "2205B - Simons and Cakes for Success"
+    "2205B - Simons and Cakes for Success",
+    "2205A - Simons and Making It Beautiful"
   ]
 }
