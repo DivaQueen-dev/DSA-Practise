@@ -22,3 +22,4 @@
 | 20 | [189A - Cut Ribbon](./Codeforces/basic/189A%20-%20Cut%20Ribbon) | [Codeforces](https://codeforces.com/problemset/problem/189/A) | basic | 11 Jul 2026 | 07:17 pm |
 | 21 | [339B - Xenia and Ringroad](./Codeforces/basic/339B%20-%20Xenia%20and%20Ringroad) | [Codeforces](https://codeforces.com/problemset/problem/339/B) | basic | 11 Jul 2026 | 07:18 pm |
 | 22 | [706B - Interesting drink](./Codeforces/basic/706B%20-%20Interesting%20drink) | [Codeforces](https://codeforces.com/problemset/problem/706/B) | basic | 11 Jul 2026 | 07:18 pm |
+| 23 | [1999A - AB Again](./Codeforces/basic/1999A%20-%20AB%20Again) | [Codeforces](https://codeforces.com/problemset/problem/1999/A) | basic | 11 Jul 2026 | 07:18 pm |

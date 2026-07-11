@@ -1,14 +1,14 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 22,
+  "todayCount": 23,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 20
+    "basic": 21
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -32,10 +32,11 @@
     "Codeforces_1409A_-_Yet_Another_Two_Integers_Problem": true,
     "Codeforces_189A_-_Cut_Ribbon": true,
     "Codeforces_339B_-_Xenia_and_Ringroad": true,
-    "Codeforces_706B_-_Interesting_drink": true
+    "Codeforces_706B_-_Interesting_drink": true,
+    "Codeforces_1999A_-_AB_Again": true
   },
   "activityHistory": {
-    "2026-07-11": 22
+    "2026-07-11": 23
   },
   "todayProblems": [
     "Exactly One Consecutive Set Bits Pair",
@@ -59,6 +60,7 @@
     "1409A - Yet Another Two Integers Problem",
     "189A - Cut Ribbon",
     "339B - Xenia and Ringroad",
-    "706B - Interesting drink"
+    "706B - Interesting drink",
+    "1999A - AB Again"
   ]
 }
