@@ -1,0 +1,25 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        while (t-- > 0) {
+            int n = sc.nextInt();
+            int[] a = new int[n];
+            for (int i = 0; i < n; i++) a[i] = sc.nextInt();
+            
+            Map<Integer, Integer> count = new HashMap<>();
+            for (int x : a) count.put(x, count.getOrDefault(x, 0) + 1);
+            
+            int rare = -1;
+            for (Map.Entry<Integer, Integer> e : count.entrySet()) {
+                if (e.getValue() == 1) { rare = e.getKey(); break; }
+            }
+            
+            for (int i = 0; i < n; i++) {
+                if (a[i] == rare) { System.out.println(i + 1); break; }
+            }
+        }
+    }
+}

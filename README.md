@@ -16,3 +16,4 @@
 | 14 | [2198A - Twice](./Codeforces/basic/2198A%20-%20Twice) | [Codeforces](https://codeforces.com/problemset/problem/2198/A) | basic | 11 Jul 2026 | 07:17 pm |
 | 15 | [2192A - String Rotation Game](./Codeforces/basic/2192A%20-%20String%20Rotation%20Game) | [Codeforces](https://codeforces.com/problemset/problem/2192/A) | basic | 11 Jul 2026 | 07:17 pm |
 | 16 | [1955A - Yogurt Sale](./Codeforces/basic/1955A%20-%20Yogurt%20Sale) | [Codeforces](https://codeforces.com/problemset/problem/1955/A) | basic | 11 Jul 2026 | 07:17 pm |
+| 17 | [1512A - Spy Detected](./Codeforces/basic/1512A%20-%20Spy%20Detected) | [Codeforces](https://codeforces.com/problemset/problem/1512/A) | basic | 11 Jul 2026 | 07:17 pm |
