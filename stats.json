@@ -1,14 +1,14 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 7
+    "basic": 8
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -19,10 +19,11 @@
     "Codeforces_2200A_-_Eating_Game": true,
     "Codeforces_2205B_-_Simons_and_Cakes_for_Success": true,
     "Codeforces_2205A_-_Simons_and_Making_It_Beautiful": true,
-    "Codeforces_705A_-_Hulk": true
+    "Codeforces_705A_-_Hulk": true,
+    "Codeforces_2203A_-_Towers_of_Boxes": true
   },
   "activityHistory": {
-    "2026-07-11": 9
+    "2026-07-11": 10
   },
   "todayProblems": [
     "Exactly One Consecutive Set Bits Pair",
@@ -33,6 +34,7 @@
     "2200A - Eating Game",
     "2205B - Simons and Cakes for Success",
     "2205A - Simons and Making It Beautiful",
-    "705A - Hulk"
+    "705A - Hulk",
+    "2203A - Towers of Boxes"
   ]
 }

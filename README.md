@@ -9,3 +9,4 @@
 | 7 | [2205B - Simons and Cakes for Success](./Codeforces/basic/2205B%20-%20Simons%20and%20Cakes%20for%20Success) | [Codeforces](https://codeforces.com/problemset/problem/2205/B) | basic | 11 Jul 2026 | 07:16 pm |
 | 8 | [2205A - Simons and Making It Beautiful](./Codeforces/basic/2205A%20-%20Simons%20and%20Making%20It%20Beautiful) | [Codeforces](https://codeforces.com/problemset/problem/2205/A) | basic | 11 Jul 2026 | 07:16 pm |
 | 9 | [705A - Hulk](./Codeforces/basic/705A%20-%20Hulk) | [Codeforces](https://codeforces.com/problemset/problem/705/A) | basic | 11 Jul 2026 | 07:16 pm |
+| 10 | [2203A - Towers of Boxes](./Codeforces/basic/2203A%20-%20Towers%20of%20Boxes) | [Codeforces](https://codeforces.com/problemset/problem/2203/A) | basic | 11 Jul 2026 | 07:16 pm |

@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class TowersOfBoxes {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt(); 
+        while (t-- > 0) {
+            int n = sc.nextInt(); // number of boxes
+            int m = sc.nextInt(); // weight of each box
+            int d = sc.nextInt(); // durability of each box
+            
+            // maximum height of a tower
+            int maxHeight = d / m + 1;
+            
+            // minimum number of towers
+            int minTowers = (n + maxHeight - 1) / maxHeight; 
+            
+            System.out.println(minTowers);
+        }
+        
+        sc.close();
+    }
+}
