@@ -1,14 +1,14 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -21,10 +21,11 @@
     "Codeforces_2205A_-_Simons_and_Making_It_Beautiful": true,
     "Codeforces_705A_-_Hulk": true,
     "Codeforces_2203A_-_Towers_of_Boxes": true,
-    "Codeforces_32B_-_Borze": true
+    "Codeforces_32B_-_Borze": true,
+    "Codeforces_2202C1_-_Lost_Civilization_Easy_Version": true
   },
   "activityHistory": {
-    "2026-07-11": 11
+    "2026-07-11": 12
   },
   "todayProblems": [
     "Exactly One Consecutive Set Bits Pair",
@@ -37,6 +38,7 @@
     "2205A - Simons and Making It Beautiful",
     "705A - Hulk",
     "2203A - Towers of Boxes",
-    "32B - Borze"
+    "32B - Borze",
+    "2202C1 - Lost Civilization Easy Version"
   ]
 }

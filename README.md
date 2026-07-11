@@ -11,3 +11,4 @@
 | 9 | [705A - Hulk](./Codeforces/basic/705A%20-%20Hulk) | [Codeforces](https://codeforces.com/problemset/problem/705/A) | basic | 11 Jul 2026 | 07:16 pm |
 | 10 | [2203A - Towers of Boxes](./Codeforces/basic/2203A%20-%20Towers%20of%20Boxes) | [Codeforces](https://codeforces.com/problemset/problem/2203/A) | basic | 11 Jul 2026 | 07:16 pm |
 | 11 | [32B - Borze](./Codeforces/basic/32B%20-%20Borze) | [Codeforces](https://codeforces.com/problemset/problem/32/B) | basic | 11 Jul 2026 | 07:17 pm |
+| 12 | [2202C1 - Lost Civilization Easy Version](./Codeforces/basic/2202C1%20-%20Lost%20Civilization%20Easy%20Version) | [Codeforces](https://codeforces.com/problemset/problem/2202/C1) | basic | 11 Jul 2026 | 07:17 pm |
