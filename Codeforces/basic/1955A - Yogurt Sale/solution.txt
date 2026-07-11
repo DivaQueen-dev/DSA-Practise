@@ -1,0 +1,14 @@
+import java.util.*;
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        while(t-- > 0) {
+            int n = sc.nextInt(), a = sc.nextInt(), b = sc.nextInt();
+            int pairs = n / 2;
+            int rem = n % 2;
+            int pairPrice = Math.min(b, 2 * a);
+            System.out.println(pairs * pairPrice + rem * a);
+        }
+    }
+}
