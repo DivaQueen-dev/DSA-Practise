@@ -5,3 +5,4 @@
 | 3 | [579A - Raising Bacteria](./Codeforces/basic/579A%20-%20Raising%20Bacteria) | [Codeforces](https://codeforces.com/problemset/problem/579/A) | basic | 11 Jul 2026 | 07:16 pm |
 | 4 | [1915A - Odd One Out](./Codeforces/basic/1915A%20-%20Odd%20One%20Out) | [Codeforces](https://codeforces.com/problemset/problem/1915/A) | basic | 11 Jul 2026 | 07:16 pm |
 | 5 | [1760A - Medium Number](./Codeforces/basic/1760A%20-%20Medium%20Number) | [Codeforces](https://codeforces.com/problemset/problem/1760/A) | basic | 11 Jul 2026 | 07:16 pm |
+| 6 | [2200A - Eating Game](./Codeforces/basic/2200A%20-%20Eating%20Game) | [Codeforces](https://codeforces.com/problemset/problem/2200/A) | basic | 11 Jul 2026 | 07:16 pm |
