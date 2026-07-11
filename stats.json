@@ -1,14 +1,14 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 8
+    "basic": 9
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -20,10 +20,11 @@
     "Codeforces_2205B_-_Simons_and_Cakes_for_Success": true,
     "Codeforces_2205A_-_Simons_and_Making_It_Beautiful": true,
     "Codeforces_705A_-_Hulk": true,
-    "Codeforces_2203A_-_Towers_of_Boxes": true
+    "Codeforces_2203A_-_Towers_of_Boxes": true,
+    "Codeforces_32B_-_Borze": true
   },
   "activityHistory": {
-    "2026-07-11": 10
+    "2026-07-11": 11
   },
   "todayProblems": [
     "Exactly One Consecutive Set Bits Pair",
@@ -35,6 +36,7 @@
     "2205B - Simons and Cakes for Success",
     "2205A - Simons and Making It Beautiful",
     "705A - Hulk",
-    "2203A - Towers of Boxes"
+    "2203A - Towers of Boxes",
+    "32B - Borze"
   ]
 }

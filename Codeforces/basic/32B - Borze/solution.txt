@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.next();
+        StringBuilder res = new StringBuilder();
+        int i = 0;
+        while (i < s.length()) {
+            if (s.charAt(i) == '.') {
+                res.append('0');
+                i++;
+            } else if (s.charAt(i+1) == '.') {
+                res.append('1');
+                i += 2;
+            } else {
+                res.append('2');
+                i += 2;
+            }
+        }
+        System.out.println(res);
+    }
+}
