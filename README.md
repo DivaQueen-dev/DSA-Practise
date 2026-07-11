@@ -20,3 +20,4 @@
 | 18 | [1399A - Remove Smallest](./Codeforces/basic/1399A%20-%20Remove%20Smallest) | [Codeforces](https://codeforces.com/problemset/problem/1399/A) | basic | 11 Jul 2026 | 07:17 pm |
 | 19 | [1409A - Yet Another Two Integers Problem](./Codeforces/basic/1409A%20-%20Yet%20Another%20Two%20Integers%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1409/A) | basic | 11 Jul 2026 | 07:17 pm |
 | 20 | [189A - Cut Ribbon](./Codeforces/basic/189A%20-%20Cut%20Ribbon) | [Codeforces](https://codeforces.com/problemset/problem/189/A) | basic | 11 Jul 2026 | 07:17 pm |
+| 21 | [339B - Xenia and Ringroad](./Codeforces/basic/339B%20-%20Xenia%20and%20Ringroad) | [Codeforces](https://codeforces.com/problemset/problem/339/B) | basic | 11 Jul 2026 | 07:18 pm |
