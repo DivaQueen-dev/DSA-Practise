@@ -27,3 +27,4 @@
 | 25 | [Sequential Digits](./LeetCode/Medium/Sequential%20Digits) | [LeetCode](https://leetcode.com/problems/sequential-digits/) | Medium | 13 Jul 2026 | 12:28 pm |
 | 26 | [Count Odd Numbers in an Interval Range](./LeetCode/Easy/Count%20Odd%20Numbers%20in%20an%20Interval%20Range) | [LeetCode](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | 13 Jul 2026 | 03:33 pm |
 | 27 | [Self Dividing Numbers](./LeetCode/Easy/Self%20Dividing%20Numbers) | [LeetCode](https://leetcode.com/problems/self-dividing-numbers/) | Easy | 13 Jul 2026 | 03:43 pm |
+| 28 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 13 Jul 2026 | 04:09 pm |
