@@ -30,3 +30,4 @@
 | 28 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 13 Jul 2026 | 04:09 pm |
 | 29 | [Score of a String](./LeetCode/Easy/Score%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/score-of-a-string/) | Easy | 13 Jul 2026 | 07:33 pm |
 | 30 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 13 Jul 2026 | 07:40 pm |
+| 31 | [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) | [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | 13 Jul 2026 | 07:50 pm |
