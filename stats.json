@@ -1,11 +1,11 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 2,
     "hard": 0,
     "basic": 21
@@ -35,14 +35,16 @@
     "Codeforces_706B_-_Interesting_drink": true,
     "Codeforces_1807A_-_Plus_or_Minus": true,
     "LeetCode_Sequential_Digits": true,
-    "LeetCode_Count_Odd_Numbers_in_an_Interval_Range": true
+    "LeetCode_Count_Odd_Numbers_in_an_Interval_Range": true,
+    "LeetCode_Self_Dividing_Numbers": true
   },
   "activityHistory": {
     "2026-07-11": 23,
-    "2026-07-13": 2
+    "2026-07-13": 3
   },
   "todayProblems": [
     "Sequential Digits",
-    "Count Odd Numbers in an Interval Range"
+    "Count Odd Numbers in an Interval Range",
+    "Self Dividing Numbers"
   ]
 }
