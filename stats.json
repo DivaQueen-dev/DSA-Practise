@@ -1,11 +1,11 @@
 {
-  "totalSolved": 34,
+  "totalSolved": 35,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-14",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 2,
     "hard": 0,
     "basic": 22
@@ -44,16 +44,18 @@
     "LeetCode_To_Lower_Case": true,
     "LeetCode_Matrix_Diagonal_Sum": true,
     "LeetCode_Transpose_Matrix": true,
-    "GeeksForGeeks_Factors_Sum": true
+    "GeeksForGeeks_Factors_Sum": true,
+    "LeetCode_Richest_Customer_Wealth": true
   },
   "activityHistory": {
     "2026-07-11": 23,
     "2026-07-13": 8,
-    "2026-07-14": 3
+    "2026-07-14": 4
   },
   "todayProblems": [
     "Matrix Diagonal Sum",
     "Transpose Matrix",
-    "Factors Sum"
+    "Factors Sum",
+    "Richest Customer Wealth"
   ]
 }
