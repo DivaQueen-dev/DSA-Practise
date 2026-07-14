@@ -1,14 +1,14 @@
 {
-  "totalSolved": 33,
+  "totalSolved": 34,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-14",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 10,
     "medium": 2,
     "hard": 0,
-    "basic": 21
+    "basic": 22
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -43,15 +43,17 @@
     "LeetCode_Find_Numbers_with_Even_Number_of_Digits": true,
     "LeetCode_To_Lower_Case": true,
     "LeetCode_Matrix_Diagonal_Sum": true,
-    "LeetCode_Transpose_Matrix": true
+    "LeetCode_Transpose_Matrix": true,
+    "GeeksForGeeks_Factors_Sum": true
   },
   "activityHistory": {
     "2026-07-11": 23,
     "2026-07-13": 8,
-    "2026-07-14": 2
+    "2026-07-14": 3
   },
   "todayProblems": [
     "Matrix Diagonal Sum",
-    "Transpose Matrix"
+    "Transpose Matrix",
+    "Factors Sum"
   ]
 }

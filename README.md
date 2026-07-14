@@ -34,3 +34,4 @@
 | 32 | [To Lower Case](./LeetCode/Easy/To%20Lower%20Case) | [LeetCode](https://leetcode.com/problems/to-lower-case/) | Easy | 13 Jul 2026 | 08:09 pm |
 | 33 | [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) | [LeetCode](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | 14 Jul 2026 | 11:04 am |
 | 34 | [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | Easy | 14 Jul 2026 | 12:52 pm |
+| 35 | [Factors Sum](./GeeksForGeeks/Basic/Factors%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factors-sum2016/1) | Basic | 14 Jul 2026 | 02:52 pm |
