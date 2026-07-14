@@ -33,3 +33,4 @@
 | 31 | [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) | [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | 13 Jul 2026 | 07:50 pm |
 | 32 | [To Lower Case](./LeetCode/Easy/To%20Lower%20Case) | [LeetCode](https://leetcode.com/problems/to-lower-case/) | Easy | 13 Jul 2026 | 08:09 pm |
 | 33 | [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) | [LeetCode](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | 14 Jul 2026 | 11:04 am |
+| 34 | [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | Easy | 14 Jul 2026 | 12:52 pm |
