@@ -40,3 +40,4 @@
 | 38 | [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/add-two-integers/) | Easy | 15 Jul 2026 | 11:47 am |
 | 39 | [Subtract the Product and Sum of Digits of an Integer](./LeetCode/Easy/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer) | [LeetCode](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 15 Jul 2026 | 11:54 am |
 | 40 | [XOR Operation in an Array](./LeetCode/Easy/XOR%20Operation%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | 15 Jul 2026 | 12:07 pm |
+| 41 | [Count the Digits That Divide a Number](./LeetCode/Easy/Count%20the%20Digits%20That%20Divide%20a%20Number) | [LeetCode](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | Easy | 15 Jul 2026 | 12:15 pm |
