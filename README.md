@@ -36,3 +36,4 @@
 | 34 | [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | Easy | 14 Jul 2026 | 12:52 pm |
 | 35 | [Factors Sum](./GeeksForGeeks/Basic/Factors%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factors-sum2016/1) | Basic | 14 Jul 2026 | 02:52 pm |
 | 36 | [Richest Customer Wealth](./LeetCode/Easy/Richest%20Customer%20Wealth) | [LeetCode](https://leetcode.com/problems/richest-customer-wealth/) | Easy | 14 Jul 2026 | 03:06 pm |
+| 37 | [Number of Steps to Reduce a Number to Zero](./LeetCode/Easy/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) | [LeetCode](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | 15 Jul 2026 | 11:41 am |
