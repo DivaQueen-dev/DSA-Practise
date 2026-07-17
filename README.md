@@ -44,3 +44,4 @@
 | 42 | [GCD of Odd and Even Sums](./LeetCode/Easy/GCD%20of%20Odd%20and%20Even%20Sums) | [LeetCode](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | 15 Jul 2026 | 12:53 pm |
 | 43 | [Sum of GCD of Formed Pairs](./LeetCode/Medium/Sum%20of%20GCD%20of%20Formed%20Pairs) | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | 16 Jul 2026 | 09:35 pm |
 | 44 | [Shuffle the Array](./LeetCode/Easy/Shuffle%20the%20Array) | [LeetCode](https://leetcode.com/problems/shuffle-the-array/) | Easy | 17 Jul 2026 | 12:23 pm |
+| 45 | [Robot Return to Origin](./LeetCode/Easy/Robot%20Return%20to%20Origin) | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | Easy | 17 Jul 2026 | 12:46 pm |
