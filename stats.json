@@ -1,11 +1,11 @@
 {
-  "totalSolved": 42,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-07-16",
+  "totalSolved": 43,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-07-17",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 17,
+    "easy": 18,
     "medium": 3,
     "hard": 0,
     "basic": 22
@@ -52,16 +52,18 @@
     "LeetCode_XOR_Operation_in_an_Array": true,
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
     "LeetCode_GCD_of_Odd_and_Even_Sums": true,
-    "LeetCode_Sum_of_GCD_of_Formed_Pairs": true
+    "LeetCode_Sum_of_GCD_of_Formed_Pairs": true,
+    "LeetCode_Shuffle_the_Array": true
   },
   "activityHistory": {
     "2026-07-11": 23,
     "2026-07-13": 8,
     "2026-07-14": 4,
     "2026-07-15": 6,
-    "2026-07-16": 1
+    "2026-07-16": 1,
+    "2026-07-17": 1
   },
   "todayProblems": [
-    "Sum of GCD of Formed Pairs"
+    "Shuffle the Array"
   ]
 }
