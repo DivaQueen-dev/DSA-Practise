@@ -45,3 +45,4 @@
 | 43 | [Sum of GCD of Formed Pairs](./LeetCode/Medium/Sum%20of%20GCD%20of%20Formed%20Pairs) | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | 16 Jul 2026 | 09:35 pm |
 | 44 | [Shuffle the Array](./LeetCode/Easy/Shuffle%20the%20Array) | [LeetCode](https://leetcode.com/problems/shuffle-the-array/) | Easy | 17 Jul 2026 | 12:23 pm |
 | 45 | [Robot Return to Origin](./LeetCode/Easy/Robot%20Return%20to%20Origin) | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | Easy | 17 Jul 2026 | 12:46 pm |
+| 46 | [Find Greatest Common Divisor of Array](./LeetCode/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array) | [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 18 Jul 2026 | 08:53 pm |
