@@ -47,3 +47,4 @@
 | 45 | [Robot Return to Origin](./LeetCode/Easy/Robot%20Return%20to%20Origin) | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | Easy | 17 Jul 2026 | 12:46 pm |
 | 46 | [Find Greatest Common Divisor of Array](./LeetCode/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array) | [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 18 Jul 2026 | 08:53 pm |
 | 47 | [Final Value of Variable After Performing Operations](./LeetCode/Easy/Final%20Value%20of%20Variable%20After%20Performing%20Operations) | [LeetCode](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy | 19 Jul 2026 | 06:37 pm |
+| 48 | [Reverse Vowels of a String](./LeetCode/Easy/Reverse%20Vowels%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | 20 Jul 2026 | 02:56 pm |
