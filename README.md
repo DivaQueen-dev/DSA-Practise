@@ -52,3 +52,4 @@
 | 50 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 21 Jul 2026 | 12:18 pm |
 | 51 | [Three Consecutive Odds](./LeetCode/Easy/Three%20Consecutive%20Odds) | [LeetCode](https://leetcode.com/problems/three-consecutive-odds/) | Easy | 21 Jul 2026 | 12:30 pm |
 | 52 | [Consecutive Characters](./LeetCode/Easy/Consecutive%20Characters) | [LeetCode](https://leetcode.com/problems/consecutive-characters/) | Easy | 21 Jul 2026 | 12:40 pm |
+| 53 | [Longest Continuous Increasing Subsequence](./LeetCode/Easy/Longest%20Continuous%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Easy | 21 Jul 2026 | 12:42 pm |

@@ -1,11 +1,11 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-21",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 26,
+    "easy": 27,
     "medium": 3,
     "hard": 0,
     "basic": 22
@@ -61,7 +61,8 @@
     "LeetCode_Rearrange_String_to_Avoid_Character_Pair": true,
     "LeetCode_Plus_One": true,
     "LeetCode_Three_Consecutive_Odds": true,
-    "LeetCode_Consecutive_Characters": true
+    "LeetCode_Consecutive_Characters": true,
+    "LeetCode_Longest_Continuous_Increasing_Subsequence": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -73,12 +74,13 @@
     "2026-07-18": 1,
     "2026-07-19": 1,
     "2026-07-20": 1,
-    "2026-07-21": 4
+    "2026-07-21": 5
   },
   "todayProblems": [
     "Rearrange String to Avoid Character Pair",
     "Plus One",
     "Three Consecutive Odds",
-    "Consecutive Characters"
+    "Consecutive Characters",
+    "Longest Continuous Increasing Subsequence"
   ]
 }
