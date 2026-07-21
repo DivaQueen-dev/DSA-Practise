@@ -51,3 +51,4 @@
 | 49 | [Rearrange String to Avoid Character Pair](./LeetCode/Easy/Rearrange%20String%20to%20Avoid%20Character%20Pair) | [LeetCode](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | Easy | 21 Jul 2026 | 11:47 am |
 | 50 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 21 Jul 2026 | 12:18 pm |
 | 51 | [Three Consecutive Odds](./LeetCode/Easy/Three%20Consecutive%20Odds) | [LeetCode](https://leetcode.com/problems/three-consecutive-odds/) | Easy | 21 Jul 2026 | 12:30 pm |
+| 52 | [Consecutive Characters](./LeetCode/Easy/Consecutive%20Characters) | [LeetCode](https://leetcode.com/problems/consecutive-characters/) | Easy | 21 Jul 2026 | 12:40 pm |
