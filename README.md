@@ -49,3 +49,4 @@
 | 47 | [Final Value of Variable After Performing Operations](./LeetCode/Easy/Final%20Value%20of%20Variable%20After%20Performing%20Operations) | [LeetCode](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy | 19 Jul 2026 | 06:37 pm |
 | 48 | [Reverse Vowels of a String](./LeetCode/Easy/Reverse%20Vowels%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | 20 Jul 2026 | 02:56 pm |
 | 49 | [Rearrange String to Avoid Character Pair](./LeetCode/Easy/Rearrange%20String%20to%20Avoid%20Character%20Pair) | [LeetCode](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | Easy | 21 Jul 2026 | 11:47 am |
+| 50 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 21 Jul 2026 | 12:18 pm |
