@@ -56,3 +56,4 @@
 
 
 ....
+| 54 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 23 Jul 2026 | 08:53 pm |
