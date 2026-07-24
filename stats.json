@@ -1,11 +1,11 @@
 {
-  "totalSolved": 53,
-  "currentStreak": 1,
+  "totalSolved": 54,
+  "currentStreak": 2,
   "maxStreak": 9,
-  "lastSyncDate": "2026-07-23",
+  "lastSyncDate": "2026-07-24",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 27,
+    "easy": 28,
     "medium": 4,
     "hard": 0,
     "basic": 22
@@ -63,7 +63,8 @@
     "LeetCode_Three_Consecutive_Odds": true,
     "LeetCode_Consecutive_Characters": true,
     "LeetCode_Longest_Continuous_Increasing_Subsequence": true,
-    "LeetCode_Merge_Intervals": true
+    "LeetCode_Merge_Intervals": true,
+    "LeetCode_Even_Number_of_Knight_Moves": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -76,9 +77,10 @@
     "2026-07-19": 1,
     "2026-07-20": 1,
     "2026-07-21": 5,
-    "2026-07-23": 1
+    "2026-07-23": 1,
+    "2026-07-24": 1
   },
   "todayProblems": [
-    "Merge Intervals"
+    "Even Number of Knight Moves"
   ]
 }

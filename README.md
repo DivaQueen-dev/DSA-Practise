@@ -57,3 +57,4 @@
 
 ....
 | 54 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 23 Jul 2026 | 08:53 pm |
+| 55 | [Even Number of Knight Moves](./LeetCode/Easy/Even%20Number%20of%20Knight%20Moves) | [LeetCode](https://leetcode.com/problems/even-number-of-knight-moves/) | Easy | 24 Jul 2026 | 08:39 pm |
