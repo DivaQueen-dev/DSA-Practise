@@ -59,3 +59,4 @@
 | 54 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 23 Jul 2026 | 08:53 pm |
 | 55 | [Even Number of Knight Moves](./LeetCode/Easy/Even%20Number%20of%20Knight%20Moves) | [LeetCode](https://leetcode.com/problems/even-number-of-knight-moves/) | Easy | 24 Jul 2026 | 08:39 pm |
 | 56 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 25 Jul 2026 | 02:18 pm |
+| 57 | [Largest Integer With Given Digit Sum](./LeetCode/Easy/Largest%20Integer%20With%20Given%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | Easy | 26 Jul 2026 | 08:52 pm |
