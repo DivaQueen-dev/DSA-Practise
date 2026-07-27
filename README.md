@@ -60,3 +60,4 @@
 | 55 | [Even Number of Knight Moves](./LeetCode/Easy/Even%20Number%20of%20Knight%20Moves) | [LeetCode](https://leetcode.com/problems/even-number-of-knight-moves/) | Easy | 24 Jul 2026 | 08:39 pm |
 | 56 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 25 Jul 2026 | 02:18 pm |
 | 57 | [Largest Integer With Given Digit Sum](./LeetCode/Easy/Largest%20Integer%20With%20Given%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | Easy | 26 Jul 2026 | 08:52 pm |
+| 58 | [231A - Team](./Codeforces/basic/231A%20-%20Team) | [Codeforces](https://codeforces.com/problemset/problem/231/A) | basic | 27 Jul 2026 | 08:36 pm |
