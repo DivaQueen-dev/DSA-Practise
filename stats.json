@@ -1,11 +1,11 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 5,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-27",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 31,
+    "easy": 32,
     "medium": 5,
     "hard": 0,
     "basic": 24
@@ -70,7 +70,8 @@
     "Codeforces_231A_-_Team": true,
     "Codeforces_228A_-_Is_your_horseshoe_on_the_other_hoof": true,
     "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
-    "LeetCode_Find_Most_Frequent_Vowel_and_Consonant": true
+    "LeetCode_Find_Most_Frequent_Vowel_and_Consonant": true,
+    "LeetCode_First_Letter_to_Appear_Twice": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -87,12 +88,13 @@
     "2026-07-24": 1,
     "2026-07-25": 1,
     "2026-07-26": 1,
-    "2026-07-27": 4
+    "2026-07-27": 5
   },
   "todayProblems": [
     "231A - Team",
     "228A - Is your horseshoe on the other hoof",
     "Indexes of Subarray Sum",
-    "Find Most Frequent Vowel and Consonant"
+    "Find Most Frequent Vowel and Consonant",
+    "First Letter to Appear Twice"
   ]
 }
