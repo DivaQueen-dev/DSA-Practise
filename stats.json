@@ -1,14 +1,14 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 5,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 30,
     "medium": 4,
     "hard": 0,
-    "basic": 23
+    "basic": 24
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -67,7 +67,8 @@
     "LeetCode_Even_Number_of_Knight_Moves": true,
     "LeetCode_Maximum_Product_of_Two_Digits": true,
     "LeetCode_Largest_Integer_With_Given_Digit_Sum": true,
-    "Codeforces_231A_-_Team": true
+    "Codeforces_231A_-_Team": true,
+    "Codeforces_228A_-_Is_your_horseshoe_on_the_other_hoof": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -84,9 +85,10 @@
     "2026-07-24": 1,
     "2026-07-25": 1,
     "2026-07-26": 1,
-    "2026-07-27": 1
+    "2026-07-27": 2
   },
   "todayProblems": [
-    "231A - Team"
+    "231A - Team",
+    "228A - Is your horseshoe on the other hoof"
   ]
 }
