@@ -1,12 +1,12 @@
 {
-  "totalSolved": 58,
+  "totalSolved": 59,
   "currentStreak": 5,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-27",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 30,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 24
   },
@@ -68,7 +68,8 @@
     "LeetCode_Maximum_Product_of_Two_Digits": true,
     "LeetCode_Largest_Integer_With_Given_Digit_Sum": true,
     "Codeforces_231A_-_Team": true,
-    "Codeforces_228A_-_Is_your_horseshoe_on_the_other_hoof": true
+    "Codeforces_228A_-_Is_your_horseshoe_on_the_other_hoof": true,
+    "GeeksForGeeks_Indexes_of_Subarray_Sum": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -85,10 +86,11 @@
     "2026-07-24": 1,
     "2026-07-25": 1,
     "2026-07-26": 1,
-    "2026-07-27": 2
+    "2026-07-27": 3
   },
   "todayProblems": [
     "231A - Team",
-    "228A - Is your horseshoe on the other hoof"
+    "228A - Is your horseshoe on the other hoof",
+    "Indexes of Subarray Sum"
   ]
 }
