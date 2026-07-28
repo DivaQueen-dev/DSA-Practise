@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 5 |
+| 6 | 5 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (3)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -38,6 +38,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/DivaQueen-dev/DSA-Practise/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/DivaQueen-dev/DSA-Practise/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 
 ### implementation
 
@@ -52,6 +53,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/DivaQueen-dev/DSA-Practise/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/DivaQueen-dev/DSA-Practise/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 
 ---
 
