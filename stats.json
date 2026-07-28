@@ -1,12 +1,12 @@
 {
-  "totalSolved": 62,
+  "totalSolved": 63,
   "currentStreak": 6,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 32,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 25
   },
@@ -72,7 +72,8 @@
     "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
     "LeetCode_Find_Most_Frequent_Vowel_and_Consonant": true,
     "LeetCode_First_Letter_to_Appear_Twice": true,
-    "Codeforces_236A_-_Boy_or_Girl": true
+    "Codeforces_236A_-_Boy_or_Girl": true,
+    "GeeksForGeeks_Kadane's_Algorithm": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -90,9 +91,10 @@
     "2026-07-25": 1,
     "2026-07-26": 1,
     "2026-07-27": 5,
-    "2026-07-28": 1
+    "2026-07-28": 2
   },
   "todayProblems": [
-    "236A - Boy or Girl"
+    "236A - Boy or Girl",
+    "Kadane's Algorithm"
   ]
 }
