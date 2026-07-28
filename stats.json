@@ -1,12 +1,12 @@
 {
-  "totalSolved": 65,
+  "totalSolved": 66,
   "currentStreak": 6,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-28",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 25
   },
@@ -75,7 +75,8 @@
     "Codeforces_236A_-_Boy_or_Girl": true,
     "GeeksForGeeks_Kadane's_Algorithm": true,
     "GeeksForGeeks_Duplicates_in_a_Limited_Range_Array": true,
-    "LeetCode_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks": true
+    "LeetCode_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks": true,
+    "LeetCode_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -93,12 +94,13 @@
     "2026-07-25": 1,
     "2026-07-26": 1,
     "2026-07-27": 5,
-    "2026-07-28": 4
+    "2026-07-28": 5
   },
   "todayProblems": [
     "236A - Boy or Girl",
     "Kadane's Algorithm",
     "Duplicates in a Limited Range Array",
-    "Minimum Recolors to Get K Consecutive Black Blocks"
+    "Minimum Recolors to Get K Consecutive Black Blocks",
+    "Maximum Number of Vowels in a Substring of Given Length"
   ]
 }
