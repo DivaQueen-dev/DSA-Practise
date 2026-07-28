@@ -1,14 +1,14 @@
 {
-  "totalSolved": 61,
-  "currentStreak": 5,
+  "totalSolved": 62,
+  "currentStreak": 6,
   "maxStreak": 9,
-  "lastSyncDate": "2026-07-27",
-  "todayCount": 5,
+  "lastSyncDate": "2026-07-28",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 32,
     "medium": 5,
     "hard": 0,
-    "basic": 24
+    "basic": 25
   },
   "syncedProblems": {
     "LeetCode_Exactly_One_Consecutive_Set_Bits_Pair": true,
@@ -71,7 +71,8 @@
     "Codeforces_228A_-_Is_your_horseshoe_on_the_other_hoof": true,
     "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
     "LeetCode_Find_Most_Frequent_Vowel_and_Consonant": true,
-    "LeetCode_First_Letter_to_Appear_Twice": true
+    "LeetCode_First_Letter_to_Appear_Twice": true,
+    "Codeforces_236A_-_Boy_or_Girl": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -88,13 +89,10 @@
     "2026-07-24": 1,
     "2026-07-25": 1,
     "2026-07-26": 1,
-    "2026-07-27": 5
+    "2026-07-27": 5,
+    "2026-07-28": 1
   },
   "todayProblems": [
-    "231A - Team",
-    "228A - Is your horseshoe on the other hoof",
-    "Indexes of Subarray Sum",
-    "Find Most Frequent Vowel and Consonant",
-    "First Letter to Appear Twice"
+    "236A - Boy or Girl"
   ]
 }
