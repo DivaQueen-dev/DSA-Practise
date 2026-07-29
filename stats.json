@@ -1,12 +1,12 @@
 {
-  "totalSolved": 67,
-  "currentStreak": 6,
+  "totalSolved": 68,
+  "currentStreak": 7,
   "maxStreak": 9,
-  "lastSyncDate": "2026-07-28",
-  "todayCount": 6,
+  "lastSyncDate": "2026-07-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 35,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 25
   },
@@ -77,7 +77,8 @@
     "GeeksForGeeks_Duplicates_in_a_Limited_Range_Array": true,
     "LeetCode_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks": true,
     "LeetCode_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length": true,
-    "LeetCode_Reverse_Linked_List": true
+    "LeetCode_Reverse_Linked_List": true,
+    "LeetCode_Remove_Nth_Node_From_End_of_List": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -95,14 +96,10 @@
     "2026-07-25": 1,
     "2026-07-26": 1,
     "2026-07-27": 5,
-    "2026-07-28": 6
+    "2026-07-28": 6,
+    "2026-07-29": 1
   },
   "todayProblems": [
-    "236A - Boy or Girl",
-    "Kadane's Algorithm",
-    "Duplicates in a Limited Range Array",
-    "Minimum Recolors to Get K Consecutive Black Blocks",
-    "Maximum Number of Vowels in a Substring of Given Length",
-    "Reverse Linked List"
+    "Remove Nth Node From End of List"
   ]
 }
