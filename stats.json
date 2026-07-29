@@ -1,12 +1,12 @@
 {
-  "totalSolved": 69,
+  "totalSolved": 70,
   "currentStreak": 7,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 36,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 25
   },
@@ -79,7 +79,8 @@
     "LeetCode_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length": true,
     "LeetCode_Reverse_Linked_List": true,
     "LeetCode_Remove_Nth_Node_From_End_of_List": true,
-    "LeetCode_Palindrome_Linked_List": true
+    "LeetCode_Palindrome_Linked_List": true,
+    "LeetCode_Reorder_List": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -98,10 +99,11 @@
     "2026-07-26": 1,
     "2026-07-27": 5,
     "2026-07-28": 6,
-    "2026-07-29": 2
+    "2026-07-29": 3
   },
   "todayProblems": [
     "Remove Nth Node From End of List",
-    "Palindrome Linked List"
+    "Palindrome Linked List",
+    "Reorder List"
   ]
 }
