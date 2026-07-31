@@ -13,3 +13,4 @@
 | 11 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 30 Jul 2026 | 02:44 pm |
 | 12 | [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) | [LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | 30 Jul 2026 | 06:18 pm |
 | 13 | [Implement Stack using Queues](./LeetCode/Easy/Implement%20Stack%20using%20Queues) | [LeetCode](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | 30 Jul 2026 | 06:41 pm |
+| 14 | [Minimum Number of Pushes to Type Word II](./LeetCode/Medium/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | 31 Jul 2026 | 08:39 pm |
