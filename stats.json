@@ -1,12 +1,12 @@
 {
-  "totalSolved": 79,
+  "totalSolved": 80,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-08-01",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 42,
-    "medium": 12,
+    "medium": 13,
     "hard": 0,
     "basic": 25
   },
@@ -89,7 +89,8 @@
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
     "GeeksForGeeks_Activity_Selection": true,
     "GeeksForGeeks_Fractional_Knapsack": true,
-    "GeeksForGeeks_Minimum_Sum_of_Absolute_Differences_of_Pairs": true
+    "GeeksForGeeks_Minimum_Sum_of_Absolute_Differences_of_Pairs": true,
+    "GeeksForGeeks_Maximum_Length_Chain_of_Pairs": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -111,11 +112,12 @@
     "2026-07-29": 3,
     "2026-07-30": 5,
     "2026-07-31": 1,
-    "2026-08-01": 3
+    "2026-08-01": 4
   },
   "todayProblems": [
     "Activity Selection",
     "Fractional Knapsack",
-    "Minimum Sum of Absolute Differences of Pairs"
+    "Minimum Sum of Absolute Differences of Pairs",
+    "Maximum Length Chain of Pairs"
   ]
 }
