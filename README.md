@@ -15,3 +15,4 @@
 | 13 | [Implement Stack using Queues](./LeetCode/Easy/Implement%20Stack%20using%20Queues) | [LeetCode](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | 30 Jul 2026 | 06:41 pm |
 | 14 | [Minimum Number of Pushes to Type Word II](./LeetCode/Medium/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | 31 Jul 2026 | 08:39 pm |
 | 15 | [Activity Selection](./GeeksForGeeks/Medium/Activity%20Selection) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | Medium | 01 Aug 2026 | 05:34 pm |
+| 16 | [Fractional Knapsack](./GeeksForGeeks/Easy/Fractional%20Knapsack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Easy | 01 Aug 2026 | 06:32 pm |
