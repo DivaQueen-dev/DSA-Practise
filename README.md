@@ -18,3 +18,4 @@
 | 16 | [Fractional Knapsack](./GeeksForGeeks/Easy/Fractional%20Knapsack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Easy | 01 Aug 2026 | 06:32 pm |
 | 17 | [Minimum Sum of Absolute Differences of Pairs](./GeeksForGeeks/Easy/Minimum%20Sum%20of%20Absolute%20Differences%20of%20Pairs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-sum-of-absolute-differences-of-pairs/1) | Easy | 01 Aug 2026 | 06:46 pm |
 | 18 | [Maximum Length Chain of Pairs](./GeeksForGeeks/Medium/Maximum%20Length%20Chain%20of%20Pairs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-length-chain-of-pairs/1) | Medium | 01 Aug 2026 | 06:56 pm |
+| 19 | [Minimum Coins of 1, 2, 5 and 10](./GeeksForGeeks/Easy/Minimum%20Coins%20of%201%2C%202%2C%205%20and%2010) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | Easy | 02 Aug 2026 | 03:19 pm |
