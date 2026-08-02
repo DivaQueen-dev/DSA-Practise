@@ -20,3 +20,4 @@
 | 18 | [Maximum Length Chain of Pairs](./GeeksForGeeks/Medium/Maximum%20Length%20Chain%20of%20Pairs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-length-chain-of-pairs/1) | Medium | 01 Aug 2026 | 06:56 pm |
 | 19 | [Minimum Coins of 1, 2, 5 and 10](./GeeksForGeeks/Easy/Minimum%20Coins%20of%201%2C%202%2C%205%20and%2010) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | Easy | 02 Aug 2026 | 03:19 pm |
 | 20 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 02 Aug 2026 | 03:44 pm |
+| 21 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 02 Aug 2026 | 07:53 pm |

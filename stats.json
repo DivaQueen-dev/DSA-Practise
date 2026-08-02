@@ -1,12 +1,12 @@
 {
-  "totalSolved": 82,
+  "totalSolved": 83,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-08-02",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 43,
-    "medium": 14,
+    "medium": 15,
     "hard": 0,
     "basic": 25
   },
@@ -92,7 +92,8 @@
     "GeeksForGeeks_Minimum_Sum_of_Absolute_Differences_of_Pairs": true,
     "GeeksForGeeks_Maximum_Length_Chain_of_Pairs": true,
     "GeeksForGeeks_Minimum_Coins_of_1,_2,_5_and_10": true,
-    "LeetCode_Add_Two_Numbers": true
+    "LeetCode_Add_Two_Numbers": true,
+    "LeetCode_Stone_Game": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -115,10 +116,11 @@
     "2026-07-30": 5,
     "2026-07-31": 1,
     "2026-08-01": 4,
-    "2026-08-02": 2
+    "2026-08-02": 3
   },
   "todayProblems": [
     "Minimum Coins of 1, 2, 5 and 10",
-    "Add Two Numbers"
+    "Add Two Numbers",
+    "Stone Game"
   ]
 }
