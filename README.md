@@ -22,3 +22,4 @@
 | 20 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 02 Aug 2026 | 03:44 pm |
 | 21 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 02 Aug 2026 | 07:53 pm |
 | 22 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 03 Aug 2026 | 04:34 pm |
+| 23 | [Binary Tree Preorder Traversal](./LeetCode/Easy/Binary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | 03 Aug 2026 | 04:56 pm |
