@@ -24,3 +24,4 @@
 | 22 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 03 Aug 2026 | 04:34 pm |
 | 23 | [Binary Tree Preorder Traversal](./LeetCode/Easy/Binary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | 03 Aug 2026 | 04:56 pm |
 | 24 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 04 Aug 2026 | 06:00 pm |
+| 25 | [Count Digits in a Number](./GeeksForGeeks/Easy/Count%20Digits%20in%20a%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | Easy | 04 Aug 2026 | 06:49 pm |
