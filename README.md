@@ -30,3 +30,4 @@
 | 28 | [Minimum Absolute Difference in BST](./LeetCode/Easy/Minimum%20Absolute%20Difference%20in%20BST) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 05 Aug 2026 | 12:18 pm |
 | 29 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 05 Aug 2026 | 12:29 pm |
 | 30 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 05 Aug 2026 | 12:55 pm |
+| 31 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 05 Aug 2026 | 01:19 pm |
