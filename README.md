@@ -27,3 +27,4 @@
 | 25 | [Count Digits in a Number](./GeeksForGeeks/Easy/Count%20Digits%20in%20a%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | Easy | 04 Aug 2026 | 06:49 pm |
 | 26 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 05 Aug 2026 | 10:33 am |
 | 27 | [Minimum Distance Between BST Nodes](./LeetCode/Easy/Minimum%20Distance%20Between%20BST%20Nodes) | [LeetCode](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | 05 Aug 2026 | 12:05 pm |
+| 28 | [Minimum Absolute Difference in BST](./LeetCode/Easy/Minimum%20Absolute%20Difference%20in%20BST) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 05 Aug 2026 | 12:18 pm |
