@@ -1,12 +1,12 @@
 {
-  "totalSolved": 87,
-  "currentStreak": 13,
-  "maxStreak": 13,
-  "lastSyncDate": "2026-08-04",
-  "todayCount": 2,
+  "totalSolved": 88,
+  "currentStreak": 14,
+  "maxStreak": 14,
+  "lastSyncDate": "2026-08-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 47,
-    "medium": 15,
+    "medium": 16,
     "hard": 0,
     "basic": 25
   },
@@ -97,7 +97,8 @@
     "LeetCode_Diameter_of_Binary_Tree": true,
     "LeetCode_Binary_Tree_Preorder_Traversal": true,
     "LeetCode_Find_Missing_Elements": true,
-    "GeeksForGeeks_Count_Digits_in_a_Number": true
+    "GeeksForGeeks_Count_Digits_in_a_Number": true,
+    "LeetCode_Binary_Tree_Level_Order_Traversal": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -122,10 +123,10 @@
     "2026-08-01": 4,
     "2026-08-02": 3,
     "2026-08-03": 2,
-    "2026-08-04": 2
+    "2026-08-04": 2,
+    "2026-08-05": 1
   },
   "todayProblems": [
-    "Find Missing Elements",
-    "Count Digits in a Number"
+    "Binary Tree Level Order Traversal"
   ]
 }
