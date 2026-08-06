@@ -1,11 +1,11 @@
 {
-  "totalSolved": 94,
-  "currentStreak": 14,
-  "maxStreak": 14,
-  "lastSyncDate": "2026-08-05",
-  "todayCount": 7,
+  "totalSolved": 95,
+  "currentStreak": 15,
+  "maxStreak": 15,
+  "lastSyncDate": "2026-08-06",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 53,
+    "easy": 54,
     "medium": 16,
     "hard": 0,
     "basic": 25
@@ -104,7 +104,8 @@
     "LeetCode_Same_Tree": true,
     "LeetCode_Invert_Binary_Tree": true,
     "LeetCode_Symmetric_Tree": true,
-    "LeetCode_Binary_Tree_Postorder_Traversal": true
+    "LeetCode_Binary_Tree_Postorder_Traversal": true,
+    "LeetCode_Smallest_Divisible_Digit_Product_I": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -130,15 +131,10 @@
     "2026-08-02": 3,
     "2026-08-03": 2,
     "2026-08-04": 2,
-    "2026-08-05": 7
+    "2026-08-05": 7,
+    "2026-08-06": 1
   },
   "todayProblems": [
-    "Binary Tree Level Order Traversal",
-    "Minimum Distance Between BST Nodes",
-    "Minimum Absolute Difference in BST",
-    "Same Tree",
-    "Invert Binary Tree",
-    "Symmetric Tree",
-    "Binary Tree Postorder Traversal"
+    "Smallest Divisible Digit Product I"
   ]
 }
