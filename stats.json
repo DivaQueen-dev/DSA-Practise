@@ -1,12 +1,12 @@
 {
-  "totalSolved": 99,
+  "totalSolved": 100,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-08-06",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 55,
-    "medium": 19,
+    "medium": 20,
     "hard": 0,
     "basic": 25
   },
@@ -109,7 +109,8 @@
     "LeetCode_Subtree_of_Another_Tree": true,
     "GeeksForGeeks_Top_View_of_Binary_Tree": true,
     "GeeksForGeeks_Bottom_View_of_Binary_Tree": true,
-    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
+    "LeetCode_Maximum_Level_Sum_of_a_Binary_Tree": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -136,13 +137,14 @@
     "2026-08-03": 2,
     "2026-08-04": 2,
     "2026-08-05": 7,
-    "2026-08-06": 5
+    "2026-08-06": 6
   },
   "todayProblems": [
     "Smallest Divisible Digit Product I",
     "Subtree of Another Tree",
     "Top View of Binary Tree",
     "Bottom View of Binary Tree",
-    "Lowest Common Ancestor of a Binary Tree"
+    "Lowest Common Ancestor of a Binary Tree",
+    "Maximum Level Sum of a Binary Tree"
   ]
 }
