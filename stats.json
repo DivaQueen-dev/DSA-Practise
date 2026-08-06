@@ -1,12 +1,12 @@
 {
-  "totalSolved": 96,
+  "totalSolved": 97,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-08-06",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 55,
-    "medium": 16,
+    "medium": 17,
     "hard": 0,
     "basic": 25
   },
@@ -106,7 +106,8 @@
     "LeetCode_Symmetric_Tree": true,
     "LeetCode_Binary_Tree_Postorder_Traversal": true,
     "LeetCode_Smallest_Divisible_Digit_Product_I": true,
-    "LeetCode_Subtree_of_Another_Tree": true
+    "LeetCode_Subtree_of_Another_Tree": true,
+    "GeeksForGeeks_Top_View_of_Binary_Tree": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -133,10 +134,11 @@
     "2026-08-03": 2,
     "2026-08-04": 2,
     "2026-08-05": 7,
-    "2026-08-06": 2
+    "2026-08-06": 3
   },
   "todayProblems": [
     "Smallest Divisible Digit Product I",
-    "Subtree of Another Tree"
+    "Subtree of Another Tree",
+    "Top View of Binary Tree"
   ]
 }

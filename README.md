@@ -34,3 +34,4 @@
 | 32 | [Binary Tree Postorder Traversal](./LeetCode/Easy/Binary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | 05 Aug 2026 | 01:28 pm |
 | 33 | [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | 06 Aug 2026 | 07:46 am |
 | 34 | [Subtree of Another Tree](./LeetCode/Easy/Subtree%20of%20Another%20Tree) | [LeetCode](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | 06 Aug 2026 | 08:22 am |
+| 35 | [Top View of Binary Tree](./GeeksForGeeks/Medium/Top%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | Medium | 06 Aug 2026 | 10:37 am |
