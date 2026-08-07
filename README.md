@@ -41,3 +41,4 @@
 | 39 | [Construct Binary Tree from Preorder and Inorder Traversal](./LeetCode/Medium/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 06 Aug 2026 | 01:20 pm |
 | 40 | [Binary Search Tree to Greater Sum Tree](./LeetCode/Medium/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree) | [LeetCode](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium | 06 Aug 2026 | 01:29 pm |
 | 41 | [Kids With the Greatest Number of Candies](./LeetCode/Easy/Kids%20With%20the%20Greatest%20Number%20of%20Candies) | [LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 06 Aug 2026 | 03:08 pm |
+| 42 | [Mirror Distance of an Integer](./LeetCode/Easy/Mirror%20Distance%20of%20an%20Integer) | [LeetCode](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy | 07 Aug 2026 | 11:19 am |

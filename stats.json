@@ -1,11 +1,11 @@
 {
-  "totalSolved": 103,
-  "currentStreak": 15,
-  "maxStreak": 15,
-  "lastSyncDate": "2026-08-06",
-  "todayCount": 9,
+  "totalSolved": 104,
+  "currentStreak": 16,
+  "maxStreak": 16,
+  "lastSyncDate": "2026-08-07",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 56,
+    "easy": 57,
     "medium": 22,
     "hard": 0,
     "basic": 25
@@ -113,7 +113,8 @@
     "LeetCode_Maximum_Level_Sum_of_a_Binary_Tree": true,
     "LeetCode_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal": true,
     "LeetCode_Binary_Search_Tree_to_Greater_Sum_Tree": true,
-    "LeetCode_Kids_With_the_Greatest_Number_of_Candies": true
+    "LeetCode_Kids_With_the_Greatest_Number_of_Candies": true,
+    "LeetCode_Mirror_Distance_of_an_Integer": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -140,17 +141,10 @@
     "2026-08-03": 2,
     "2026-08-04": 2,
     "2026-08-05": 7,
-    "2026-08-06": 9
+    "2026-08-06": 9,
+    "2026-08-07": 1
   },
   "todayProblems": [
-    "Smallest Divisible Digit Product I",
-    "Subtree of Another Tree",
-    "Top View of Binary Tree",
-    "Bottom View of Binary Tree",
-    "Lowest Common Ancestor of a Binary Tree",
-    "Maximum Level Sum of a Binary Tree",
-    "Construct Binary Tree from Preorder and Inorder Traversal",
-    "Binary Search Tree to Greater Sum Tree",
-    "Kids With the Greatest Number of Candies"
+    "Mirror Distance of an Integer"
   ]
 }
