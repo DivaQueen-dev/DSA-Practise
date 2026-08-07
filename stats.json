@@ -1,11 +1,11 @@
 {
-  "totalSolved": 104,
+  "totalSolved": 105,
   "currentStreak": 16,
   "maxStreak": 16,
   "lastSyncDate": "2026-08-07",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 57,
+    "easy": 58,
     "medium": 22,
     "hard": 0,
     "basic": 25
@@ -114,7 +114,8 @@
     "LeetCode_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal": true,
     "LeetCode_Binary_Search_Tree_to_Greater_Sum_Tree": true,
     "LeetCode_Kids_With_the_Greatest_Number_of_Candies": true,
-    "LeetCode_Mirror_Distance_of_an_Integer": true
+    "LeetCode_Mirror_Distance_of_an_Integer": true,
+    "GeeksForGeeks_Armstrong_Numbers": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -142,9 +143,10 @@
     "2026-08-04": 2,
     "2026-08-05": 7,
     "2026-08-06": 9,
-    "2026-08-07": 1
+    "2026-08-07": 2
   },
   "todayProblems": [
-    "Mirror Distance of an Integer"
+    "Mirror Distance of an Integer",
+    "Armstrong Numbers"
   ]
 }
