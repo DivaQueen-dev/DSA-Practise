@@ -1,11 +1,11 @@
 {
-  "totalSolved": 107,
+  "totalSolved": 108,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-08-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 59,
+    "easy": 60,
     "medium": 23,
     "hard": 0,
     "basic": 25
@@ -117,7 +117,8 @@
     "LeetCode_Mirror_Distance_of_an_Integer": true,
     "GeeksForGeeks_Armstrong_Numbers": true,
     "LeetCode_Rotting_Oranges": true,
-    "LeetCode_Build_Array_from_Permutation": true
+    "LeetCode_Build_Array_from_Permutation": true,
+    "LeetCode_Is_Subsequence": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -146,9 +147,10 @@
     "2026-08-05": 7,
     "2026-08-06": 9,
     "2026-08-07": 3,
-    "2026-08-08": 1
+    "2026-08-08": 2
   },
   "todayProblems": [
-    "Build Array from Permutation"
+    "Build Array from Permutation",
+    "Is Subsequence"
   ]
 }
