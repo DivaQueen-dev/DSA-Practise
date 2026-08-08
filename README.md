@@ -44,3 +44,4 @@
 | 42 | [Mirror Distance of an Integer](./LeetCode/Easy/Mirror%20Distance%20of%20an%20Integer) | [LeetCode](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy | 07 Aug 2026 | 11:19 am |
 | 43 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy | 07 Aug 2026 | 11:21 am |
 | 44 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 07 Aug 2026 | 11:48 am |
+| 45 | [Build Array from Permutation](./LeetCode/Easy/Build%20Array%20from%20Permutation) | [LeetCode](https://leetcode.com/problems/build-array-from-permutation/) | Easy | 08 Aug 2026 | 06:08 pm |
