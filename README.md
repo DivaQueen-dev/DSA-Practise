@@ -49,3 +49,4 @@
 | 47 | [Minimum Total Price After Applying Discounts](./LeetCode/Medium/Minimum%20Total%20Price%20After%20Applying%20Discounts) | [LeetCode](https://leetcode.com/problems/minimum-total-price-after-applying-discounts/) | Medium | 09 Aug 2026 | 08:49 pm |
 | 48 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 10 Aug 2026 | 11:55 am |
 | 49 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 10 Aug 2026 | 11:57 am |
+| 50 | [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | 10 Aug 2026 | 12:08 pm |
