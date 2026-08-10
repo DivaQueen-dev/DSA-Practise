@@ -48,3 +48,4 @@
 | 46 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 08 Aug 2026 | 06:09 pm |
 | 47 | [Minimum Total Price After Applying Discounts](./LeetCode/Medium/Minimum%20Total%20Price%20After%20Applying%20Discounts) | [LeetCode](https://leetcode.com/problems/minimum-total-price-after-applying-discounts/) | Medium | 09 Aug 2026 | 08:49 pm |
 | 48 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 10 Aug 2026 | 11:55 am |
+| 49 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 10 Aug 2026 | 11:57 am |

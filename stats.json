@@ -1,12 +1,12 @@
 {
-  "totalSolved": 110,
+  "totalSolved": 111,
   "currentStreak": 19,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 60,
-    "medium": 25,
+    "medium": 26,
     "hard": 0,
     "basic": 25
   },
@@ -120,7 +120,8 @@
     "LeetCode_Build_Array_from_Permutation": true,
     "LeetCode_Is_Subsequence": true,
     "LeetCode_Minimum_Total_Price_After_Applying_Discounts": true,
-    "LeetCode_Rotate_Image": true
+    "LeetCode_Rotate_Image": true,
+    "LeetCode_Spiral_Matrix": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -151,9 +152,10 @@
     "2026-08-07": 3,
     "2026-08-08": 2,
     "2026-08-09": 1,
-    "2026-08-10": 1
+    "2026-08-10": 2
   },
   "todayProblems": [
-    "Rotate Image"
+    "Rotate Image",
+    "Spiral Matrix"
   ]
 }
