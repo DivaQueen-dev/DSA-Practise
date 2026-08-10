@@ -1,11 +1,11 @@
 {
-  "totalSolved": 117,
+  "totalSolved": 118,
   "currentStreak": 19,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 62,
+    "easy": 63,
     "medium": 29,
     "hard": 0,
     "basic": 26
@@ -127,7 +127,8 @@
     "GeeksForGeeks_Largest_in_Array": true,
     "GeeksForGeeks_Second_Largest": true,
     "GeeksForGeeks_Check_Sorted_Array": true,
-    "LeetCode_Find_Players_With_Zero_or_One_Losses": true
+    "LeetCode_Find_Players_With_Zero_or_One_Losses": true,
+    "GeeksForGeeks_Reverse_an_Array": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -158,7 +159,7 @@
     "2026-08-07": 3,
     "2026-08-08": 2,
     "2026-08-09": 1,
-    "2026-08-10": 8
+    "2026-08-10": 9
   },
   "todayProblems": [
     "Rotate Image",
@@ -168,6 +169,7 @@
     "Largest in Array",
     "Second Largest",
     "Check Sorted Array",
-    "Find Players With Zero or One Losses"
+    "Find Players With Zero or One Losses",
+    "Reverse an Array"
   ]
 }

@@ -55,3 +55,4 @@
 | 53 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 10 Aug 2026 | 12:42 pm |
 | 54 | [Check Sorted Array](./GeeksForGeeks/Easy/Check%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | 10 Aug 2026 | 12:48 pm |
 | 55 | [Find Players With Zero or One Losses](./LeetCode/Medium/Find%20Players%20With%20Zero%20or%20One%20Losses) | [LeetCode](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Medium | 10 Aug 2026 | 02:45 pm |
+| 56 | [Reverse an Array](./GeeksForGeeks/Easy/Reverse%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 10 Aug 2026 | 08:28 pm |
