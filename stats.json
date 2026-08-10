@@ -1,12 +1,12 @@
 {
-  "totalSolved": 112,
+  "totalSolved": 113,
   "currentStreak": 19,
   "maxStreak": 19,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 60,
-    "medium": 27,
+    "medium": 28,
     "hard": 0,
     "basic": 25
   },
@@ -122,7 +122,8 @@
     "LeetCode_Minimum_Total_Price_After_Applying_Discounts": true,
     "LeetCode_Rotate_Image": true,
     "LeetCode_Spiral_Matrix": true,
-    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true
+    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
+    "LeetCode_Binary_Subarrays_With_Sum": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -153,11 +154,12 @@
     "2026-08-07": 3,
     "2026-08-08": 2,
     "2026-08-09": 1,
-    "2026-08-10": 3
+    "2026-08-10": 4
   },
   "todayProblems": [
     "Rotate Image",
     "Spiral Matrix",
-    "Two Sum II - Input Array Is Sorted"
+    "Two Sum II - Input Array Is Sorted",
+    "Binary Subarrays With Sum"
   ]
 }
