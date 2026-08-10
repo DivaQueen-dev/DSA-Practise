@@ -51,3 +51,4 @@
 | 49 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 10 Aug 2026 | 11:57 am |
 | 50 | [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | 10 Aug 2026 | 12:08 pm |
 | 51 | [Binary Subarrays With Sum](./LeetCode/Medium/Binary%20Subarrays%20With%20Sum) | [LeetCode](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | 10 Aug 2026 | 12:17 pm |
+| 52 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | Basic | 10 Aug 2026 | 12:36 pm |
