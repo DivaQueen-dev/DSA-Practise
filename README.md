@@ -62,3 +62,4 @@
 | 60 | [Find All Anagrams in a String](./LeetCode/Medium/Find%20All%20Anagrams%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | 11 Aug 2026 | 02:25 pm |
 | 61 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 11 Aug 2026 | 03:03 pm |
 | 62 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 11 Aug 2026 | 07:49 pm |
+| 63 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 11 Aug 2026 | 08:04 pm |
