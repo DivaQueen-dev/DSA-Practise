@@ -56,3 +56,4 @@
 | 54 | [Check Sorted Array](./GeeksForGeeks/Easy/Check%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | 10 Aug 2026 | 12:48 pm |
 | 55 | [Find Players With Zero or One Losses](./LeetCode/Medium/Find%20Players%20With%20Zero%20or%20One%20Losses) | [LeetCode](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Medium | 10 Aug 2026 | 02:45 pm |
 | 56 | [Reverse an Array](./GeeksForGeeks/Easy/Reverse%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 10 Aug 2026 | 08:28 pm |
+| 57 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 11 Aug 2026 | 12:54 pm |
