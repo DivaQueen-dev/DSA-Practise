@@ -63,3 +63,4 @@
 | 61 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 11 Aug 2026 | 03:03 pm |
 | 62 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 11 Aug 2026 | 07:49 pm |
 | 63 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 11 Aug 2026 | 08:04 pm |
+| 64 | [Excel Sheet Column Number](./LeetCode/Easy/Excel%20Sheet%20Column%20Number) | [LeetCode](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | 11 Aug 2026 | 09:25 pm |

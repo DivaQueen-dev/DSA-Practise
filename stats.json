@@ -1,11 +1,11 @@
 {
-  "totalSolved": 125,
+  "totalSolved": 126,
   "currentStreak": 20,
   "maxStreak": 20,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 65,
+    "easy": 66,
     "medium": 34,
     "hard": 0,
     "basic": 26
@@ -135,7 +135,8 @@
     "LeetCode_Find_All_Anagrams_in_a_String": true,
     "LeetCode_Max_Consecutive_Ones_III": true,
     "LeetCode_Sqrt(x)": true,
-    "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true
+    "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true,
+    "LeetCode_Excel_Sheet_Column_Number": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -167,7 +168,7 @@
     "2026-08-08": 2,
     "2026-08-09": 1,
     "2026-08-10": 9,
-    "2026-08-11": 7
+    "2026-08-11": 8
   },
   "todayProblems": [
     "Longest Consecutive Sequence",
@@ -176,6 +177,7 @@
     "Find All Anagrams in a String",
     "Max Consecutive Ones III",
     "Sqrt(x)",
-    "Smallest Missing Integer Greater Than Sequential Prefix Sum"
+    "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "Excel Sheet Column Number"
   ]
 }
