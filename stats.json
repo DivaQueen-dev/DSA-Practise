@@ -1,12 +1,12 @@
 {
-  "totalSolved": 119,
+  "totalSolved": 120,
   "currentStreak": 20,
   "maxStreak": 20,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 63,
-    "medium": 30,
+    "medium": 31,
     "hard": 0,
     "basic": 26
   },
@@ -129,7 +129,8 @@
     "GeeksForGeeks_Check_Sorted_Array": true,
     "LeetCode_Find_Players_With_Zero_or_One_Losses": true,
     "GeeksForGeeks_Reverse_an_Array": true,
-    "LeetCode_Longest_Consecutive_Sequence": true
+    "LeetCode_Longest_Consecutive_Sequence": true,
+    "LeetCode_Contiguous_Array": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -161,9 +162,10 @@
     "2026-08-08": 2,
     "2026-08-09": 1,
     "2026-08-10": 9,
-    "2026-08-11": 1
+    "2026-08-11": 2
   },
   "todayProblems": [
-    "Longest Consecutive Sequence"
+    "Longest Consecutive Sequence",
+    "Contiguous Array"
   ]
 }
