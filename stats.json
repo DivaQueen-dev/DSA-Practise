@@ -1,12 +1,12 @@
 {
-  "totalSolved": 122,
+  "totalSolved": 123,
   "currentStreak": 20,
   "maxStreak": 20,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 63,
-    "medium": 33,
+    "medium": 34,
     "hard": 0,
     "basic": 26
   },
@@ -132,7 +132,8 @@
     "LeetCode_Longest_Consecutive_Sequence": true,
     "LeetCode_Contiguous_Array": true,
     "LeetCode_Find_Peak_Element": true,
-    "LeetCode_Find_All_Anagrams_in_a_String": true
+    "LeetCode_Find_All_Anagrams_in_a_String": true,
+    "LeetCode_Max_Consecutive_Ones_III": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -164,12 +165,13 @@
     "2026-08-08": 2,
     "2026-08-09": 1,
     "2026-08-10": 9,
-    "2026-08-11": 4
+    "2026-08-11": 5
   },
   "todayProblems": [
     "Longest Consecutive Sequence",
     "Contiguous Array",
     "Find Peak Element",
-    "Find All Anagrams in a String"
+    "Find All Anagrams in a String",
+    "Max Consecutive Ones III"
   ]
 }
