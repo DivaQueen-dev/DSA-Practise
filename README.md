@@ -58,3 +58,4 @@
 | 56 | [Reverse an Array](./GeeksForGeeks/Easy/Reverse%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 10 Aug 2026 | 08:28 pm |
 | 57 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 11 Aug 2026 | 12:54 pm |
 | 58 | [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) | [LeetCode](https://leetcode.com/problems/contiguous-array/) | Medium | 11 Aug 2026 | 12:56 pm |
+| 59 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 11 Aug 2026 | 01:03 pm |
