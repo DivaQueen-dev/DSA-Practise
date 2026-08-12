@@ -1,12 +1,12 @@
 {
-  "totalSolved": 126,
-  "currentStreak": 20,
-  "maxStreak": 20,
-  "lastSyncDate": "2026-08-11",
-  "todayCount": 8,
+  "totalSolved": 127,
+  "currentStreak": 21,
+  "maxStreak": 21,
+  "lastSyncDate": "2026-08-12",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 66,
-    "medium": 34,
+    "medium": 35,
     "hard": 0,
     "basic": 26
   },
@@ -136,7 +136,8 @@
     "LeetCode_Max_Consecutive_Ones_III": true,
     "LeetCode_Sqrt(x)": true,
     "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true,
-    "LeetCode_Excel_Sheet_Column_Number": true
+    "LeetCode_Excel_Sheet_Column_Number": true,
+    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -168,16 +169,10 @@
     "2026-08-08": 2,
     "2026-08-09": 1,
     "2026-08-10": 9,
-    "2026-08-11": 8
+    "2026-08-11": 8,
+    "2026-08-12": 1
   },
   "todayProblems": [
-    "Longest Consecutive Sequence",
-    "Contiguous Array",
-    "Find Peak Element",
-    "Find All Anagrams in a String",
-    "Max Consecutive Ones III",
-    "Sqrt(x)",
-    "Smallest Missing Integer Greater Than Sequential Prefix Sum",
-    "Excel Sheet Column Number"
+    "Length of Longest Subarray With at Most K Frequency"
   ]
 }
