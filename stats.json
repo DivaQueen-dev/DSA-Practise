@@ -1,11 +1,11 @@
 {
-  "totalSolved": 127,
-  "currentStreak": 21,
-  "maxStreak": 21,
-  "lastSyncDate": "2026-08-12",
+  "totalSolved": 128,
+  "currentStreak": 22,
+  "maxStreak": 22,
+  "lastSyncDate": "2026-08-13",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 66,
+    "easy": 67,
     "medium": 35,
     "hard": 0,
     "basic": 26
@@ -137,7 +137,8 @@
     "LeetCode_Sqrt(x)": true,
     "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true,
     "LeetCode_Excel_Sheet_Column_Number": true,
-    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true
+    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
+    "LeetCode_Squares_of_a_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -170,9 +171,10 @@
     "2026-08-09": 1,
     "2026-08-10": 9,
     "2026-08-11": 8,
-    "2026-08-12": 1
+    "2026-08-12": 1,
+    "2026-08-13": 1
   },
   "todayProblems": [
-    "Length of Longest Subarray With at Most K Frequency"
+    "Squares of a Sorted Array"
   ]
 }
