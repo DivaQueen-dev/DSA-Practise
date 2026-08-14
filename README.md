@@ -70,3 +70,4 @@
 | 68 | [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) | [LeetCode](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | 14 Aug 2026 | 09:35 pm |
 | 69 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 14 Aug 2026 | 09:58 pm |
 | 70 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 14 Aug 2026 | 10:21 pm |
+| 71 | [Subset Sum on Generated Sequence](./GeeksForGeeks/Medium/Subset%20Sum%20on%20Generated%20Sequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/tricky-subset-problem1557/1) | Medium | 14 Aug 2026 | 10:31 pm |
