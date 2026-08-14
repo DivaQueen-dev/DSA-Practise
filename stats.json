@@ -1,12 +1,12 @@
 {
-  "totalSolved": 130,
+  "totalSolved": 131,
   "currentStreak": 23,
   "maxStreak": 23,
   "lastSyncDate": "2026-08-14",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 68,
-    "medium": 36,
+    "medium": 37,
     "hard": 0,
     "basic": 26
   },
@@ -140,7 +140,8 @@
     "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
     "LeetCode_Set_Matrix_Zeroes": true,
-    "LeetCode_Maximum_Length_Substring_With_Two_Occurrences": true
+    "LeetCode_Maximum_Length_Substring_With_Two_Occurrences": true,
+    "LeetCode_Group_Anagrams": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -175,9 +176,10 @@
     "2026-08-11": 8,
     "2026-08-12": 1,
     "2026-08-13": 2,
-    "2026-08-14": 1
+    "2026-08-14": 2
   },
   "todayProblems": [
-    "Maximum Length Substring With Two Occurrences"
+    "Maximum Length Substring With Two Occurrences",
+    "Group Anagrams"
   ]
 }
