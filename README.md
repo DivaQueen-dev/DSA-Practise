@@ -73,3 +73,4 @@
 | 71 | [Subset Sum on Generated Sequence](./GeeksForGeeks/Medium/Subset%20Sum%20on%20Generated%20Sequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/tricky-subset-problem1557/1) | Medium | 14 Aug 2026 | 10:31 pm |
 | 72 | [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) | [LeetCode](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 15 Aug 2026 | 09:56 am |
 | 73 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 15 Aug 2026 | 10:20 am |
+| 74 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 15 Aug 2026 | 11:46 am |
