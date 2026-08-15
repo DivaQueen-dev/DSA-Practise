@@ -1,12 +1,12 @@
 {
-  "totalSolved": 137,
+  "totalSolved": 138,
   "currentStreak": 24,
   "maxStreak": 24,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 69,
-    "medium": 41,
+    "medium": 42,
     "hard": 1,
     "basic": 26
   },
@@ -147,7 +147,8 @@
     "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true,
     "LeetCode_Two_Sum": true,
     "LeetCode_First_Missing_Positive": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "LeetCode_Subarray_Sum_Equals_K": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -183,12 +184,13 @@
     "2026-08-12": 1,
     "2026-08-13": 2,
     "2026-08-14": 4,
-    "2026-08-15": 4
+    "2026-08-15": 5
   },
   "todayProblems": [
     "Longest Subsequence With Non-Zero Bitwise XOR",
     "Two Sum",
     "First Missing Positive",
-    "3Sum"
+    "3Sum",
+    "Subarray Sum Equals K"
   ]
 }
