@@ -1,12 +1,12 @@
 {
-  "totalSolved": 152,
+  "totalSolved": 153,
   "currentStreak": 25,
   "maxStreak": 25,
   "lastSyncDate": "2026-08-16",
-  "todayCount": 13,
+  "todayCount": 14,
   "difficultyCounts": {
     "easy": 76,
-    "medium": 48,
+    "medium": 49,
     "hard": 2,
     "basic": 26
   },
@@ -162,7 +162,8 @@
     "LeetCode_Merge_Sorted_Array": true,
     "LeetCode_Reverse_String": true,
     "LeetCode_Shuffle_String": true,
-    "LeetCode_Goal_Parser_Interpretation": true
+    "LeetCode_Goal_Parser_Interpretation": true,
+    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -199,7 +200,7 @@
     "2026-08-13": 2,
     "2026-08-14": 4,
     "2026-08-15": 6,
-    "2026-08-16": 13
+    "2026-08-16": 14
   },
   "todayProblems": [
     "Maximum Subarray",
@@ -214,6 +215,7 @@
     "Merge Sorted Array",
     "Reverse String",
     "Shuffle String",
-    "Goal Parser Interpretation"
+    "Goal Parser Interpretation",
+    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
   ]
 }
