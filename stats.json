@@ -1,11 +1,11 @@
 {
-  "totalSolved": 150,
+  "totalSolved": 151,
   "currentStreak": 25,
   "maxStreak": 25,
   "lastSyncDate": "2026-08-16",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
-    "easy": 74,
+    "easy": 75,
     "medium": 48,
     "hard": 2,
     "basic": 26
@@ -160,7 +160,8 @@
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "LeetCode_Merge_Sorted_Array": true,
-    "LeetCode_Reverse_String": true
+    "LeetCode_Reverse_String": true,
+    "LeetCode_Shuffle_String": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -197,7 +198,7 @@
     "2026-08-13": 2,
     "2026-08-14": 4,
     "2026-08-15": 6,
-    "2026-08-16": 11
+    "2026-08-16": 12
   },
   "todayProblems": [
     "Maximum Subarray",
@@ -210,6 +211,7 @@
     "Move Zeroes",
     "Remove Duplicates from Sorted Array",
     "Merge Sorted Array",
-    "Reverse String"
+    "Reverse String",
+    "Shuffle String"
   ]
 }
