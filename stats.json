@@ -1,12 +1,12 @@
 {
-  "totalSolved": 158,
+  "totalSolved": 159,
   "currentStreak": 25,
   "maxStreak": 25,
   "lastSyncDate": "2026-08-16",
-  "todayCount": 19,
+  "todayCount": 20,
   "difficultyCounts": {
     "easy": 78,
-    "medium": 52,
+    "medium": 53,
     "hard": 2,
     "basic": 26
   },
@@ -168,7 +168,8 @@
     "LeetCode_Permutation_in_String": true,
     "LeetCode_Shortest_Unsorted_Continuous_Subarray": true,
     "LeetCode_Valid_Parentheses": true,
-    "LeetCode_Search_in_Rotated_Sorted_Array": true
+    "LeetCode_Search_in_Rotated_Sorted_Array": true,
+    "LeetCode_Minimum_Size_Subarray_Sum": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -205,7 +206,7 @@
     "2026-08-13": 2,
     "2026-08-14": 4,
     "2026-08-15": 6,
-    "2026-08-16": 19
+    "2026-08-16": 20
   },
   "todayProblems": [
     "Maximum Subarray",
@@ -226,6 +227,7 @@
     "Permutation in String",
     "Shortest Unsorted Continuous Subarray",
     "Valid Parentheses",
-    "Search in Rotated Sorted Array"
+    "Search in Rotated Sorted Array",
+    "Minimum Size Subarray Sum"
   ]
 }
