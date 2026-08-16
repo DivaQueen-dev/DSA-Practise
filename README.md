@@ -89,3 +89,4 @@
 | 87 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 16 Aug 2026 | 12:48 pm |
 | 88 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 16 Aug 2026 | 12:51 pm |
 | 89 | [Shuffle String](./LeetCode/Easy/Shuffle%20String) | [LeetCode](https://leetcode.com/problems/shuffle-string/) | Easy | 16 Aug 2026 | 03:50 pm |
+| 90 | [Goal Parser Interpretation](./LeetCode/Easy/Goal%20Parser%20Interpretation) | [LeetCode](https://leetcode.com/problems/goal-parser-interpretation/) | Easy | 16 Aug 2026 | 03:59 pm |
