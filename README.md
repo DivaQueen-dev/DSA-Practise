@@ -95,3 +95,4 @@
 | 93 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 16 Aug 2026 | 07:17 pm |
 | 94 | [Shortest Unsorted Continuous Subarray](./LeetCode/Medium/Shortest%20Unsorted%20Continuous%20Subarray) | [LeetCode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | Medium | 16 Aug 2026 | 09:45 pm |
 | 95 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 16 Aug 2026 | 09:52 pm |
+| 96 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 16 Aug 2026 | 09:53 pm |

@@ -1,12 +1,12 @@
 {
-  "totalSolved": 157,
+  "totalSolved": 158,
   "currentStreak": 25,
   "maxStreak": 25,
   "lastSyncDate": "2026-08-16",
-  "todayCount": 18,
+  "todayCount": 19,
   "difficultyCounts": {
     "easy": 78,
-    "medium": 51,
+    "medium": 52,
     "hard": 2,
     "basic": 26
   },
@@ -167,7 +167,8 @@
     "LeetCode_Defuse_the_Bomb": true,
     "LeetCode_Permutation_in_String": true,
     "LeetCode_Shortest_Unsorted_Continuous_Subarray": true,
-    "LeetCode_Valid_Parentheses": true
+    "LeetCode_Valid_Parentheses": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -204,7 +205,7 @@
     "2026-08-13": 2,
     "2026-08-14": 4,
     "2026-08-15": 6,
-    "2026-08-16": 18
+    "2026-08-16": 19
   },
   "todayProblems": [
     "Maximum Subarray",
@@ -224,6 +225,7 @@
     "Defuse the Bomb",
     "Permutation in String",
     "Shortest Unsorted Continuous Subarray",
-    "Valid Parentheses"
+    "Valid Parentheses",
+    "Search in Rotated Sorted Array"
   ]
 }
