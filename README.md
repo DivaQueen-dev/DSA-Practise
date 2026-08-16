@@ -80,3 +80,4 @@
 | 78 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 16 Aug 2026 | 12:40 pm |
 | 79 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 16 Aug 2026 | 12:40 pm |
 | 80 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 16 Aug 2026 | 12:41 pm |
+| 81 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 16 Aug 2026 | 12:42 pm |
