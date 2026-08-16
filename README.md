@@ -92,3 +92,4 @@
 | 90 | [Goal Parser Interpretation](./LeetCode/Easy/Goal%20Parser%20Interpretation) | [LeetCode](https://leetcode.com/problems/goal-parser-interpretation/) | Easy | 16 Aug 2026 | 03:59 pm |
 | 91 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./LeetCode/Medium/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | 16 Aug 2026 | 06:52 pm |
 | 92 | [Defuse the Bomb](./LeetCode/Easy/Defuse%20the%20Bomb) | [LeetCode](https://leetcode.com/problems/defuse-the-bomb/) | Easy | 16 Aug 2026 | 07:01 pm |
+| 93 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 16 Aug 2026 | 07:17 pm |
