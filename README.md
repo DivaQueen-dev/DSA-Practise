@@ -79,3 +79,4 @@
 | 77 | [Remove Duplicates from Sorted List II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20List%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | 15 Aug 2026 | 09:12 pm |
 | 78 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 16 Aug 2026 | 12:40 pm |
 | 79 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 16 Aug 2026 | 12:40 pm |
+| 80 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 16 Aug 2026 | 12:41 pm |
