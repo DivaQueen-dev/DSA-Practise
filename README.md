@@ -77,3 +77,4 @@
 | 75 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 15 Aug 2026 | 12:26 pm |
 | 76 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 15 Aug 2026 | 02:57 pm |
 | 77 | [Remove Duplicates from Sorted List II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20List%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | 15 Aug 2026 | 09:12 pm |
+| 78 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 16 Aug 2026 | 12:40 pm |
