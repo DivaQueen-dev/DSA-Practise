@@ -1,13 +1,13 @@
 {
-  "totalSolved": 162,
-  "currentStreak": 25,
-  "maxStreak": 25,
-  "lastSyncDate": "2026-08-16",
-  "todayCount": 23,
+  "totalSolved": 163,
+  "currentStreak": 26,
+  "maxStreak": 26,
+  "lastSyncDate": "2026-08-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 79,
     "medium": 55,
-    "hard": 2,
+    "hard": 3,
     "basic": 26
   },
   "syncedProblems": {
@@ -172,7 +172,8 @@
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "LeetCode_Max_Consecutive_Ones": true,
-    "LeetCode_Fruit_Into_Baskets": true
+    "LeetCode_Fruit_Into_Baskets": true,
+    "LeetCode_Minimum_Window_Substring": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -209,31 +210,10 @@
     "2026-08-13": 2,
     "2026-08-14": 4,
     "2026-08-15": 6,
-    "2026-08-16": 23
+    "2026-08-16": 23,
+    "2026-08-17": 1
   },
   "todayProblems": [
-    "Maximum Subarray",
-    "Product of Array Except Self",
-    "Next Permutation",
-    "Sort Colors",
-    "Trapping Rain Water",
-    "Container With Most Water",
-    "Maximum Average Subarray I",
-    "Move Zeroes",
-    "Remove Duplicates from Sorted Array",
-    "Merge Sorted Array",
-    "Reverse String",
-    "Shuffle String",
-    "Goal Parser Interpretation",
-    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-    "Defuse the Bomb",
-    "Permutation in String",
-    "Shortest Unsorted Continuous Subarray",
-    "Valid Parentheses",
-    "Search in Rotated Sorted Array",
-    "Minimum Size Subarray Sum",
-    "Longest Substring Without Repeating Characters",
-    "Max Consecutive Ones",
-    "Fruit Into Baskets"
+    "Minimum Window Substring"
   ]
 }
