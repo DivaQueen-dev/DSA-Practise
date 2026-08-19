@@ -1,12 +1,12 @@
 {
-  "totalSolved": 165,
-  "currentStreak": 27,
-  "maxStreak": 27,
-  "lastSyncDate": "2026-08-18",
+  "totalSolved": 166,
+  "currentStreak": 28,
+  "maxStreak": 28,
+  "lastSyncDate": "2026-08-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 81,
-    "medium": 55,
+    "medium": 56,
     "hard": 3,
     "basic": 26
   },
@@ -175,7 +175,8 @@
     "LeetCode_Fruit_Into_Baskets": true,
     "LeetCode_Minimum_Window_Substring": true,
     "LeetCode_Range_Sum_Query_-_Immutable": true,
-    "LeetCode_Find_the_Largest_Almost_Missing_Integer": true
+    "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
+    "LeetCode_Get_Equal_Substrings_Within_Budget": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -214,9 +215,10 @@
     "2026-08-15": 6,
     "2026-08-16": 23,
     "2026-08-17": 2,
-    "2026-08-18": 1
+    "2026-08-18": 1,
+    "2026-08-19": 1
   },
   "todayProblems": [
-    "Find the Largest Almost Missing Integer"
+    "Get Equal Substrings Within Budget"
   ]
 }
