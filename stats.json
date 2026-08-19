@@ -1,12 +1,12 @@
 {
-  "totalSolved": 166,
+  "totalSolved": 167,
   "currentStreak": 28,
   "maxStreak": 28,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 81,
-    "medium": 56,
+    "medium": 57,
     "hard": 3,
     "basic": 26
   },
@@ -176,7 +176,8 @@
     "LeetCode_Minimum_Window_Substring": true,
     "LeetCode_Range_Sum_Query_-_Immutable": true,
     "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
-    "LeetCode_Get_Equal_Substrings_Within_Budget": true
+    "LeetCode_Get_Equal_Substrings_Within_Budget": true,
+    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -216,9 +217,10 @@
     "2026-08-16": 23,
     "2026-08-17": 2,
     "2026-08-18": 1,
-    "2026-08-19": 1
+    "2026-08-19": 2
   },
   "todayProblems": [
-    "Get Equal Substrings Within Budget"
+    "Get Equal Substrings Within Budget",
+    "Max Sum Subarray of size K"
   ]
 }
