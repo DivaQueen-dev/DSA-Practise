@@ -1,12 +1,12 @@
 {
-  "totalSolved": 168,
+  "totalSolved": 169,
   "currentStreak": 29,
   "maxStreak": 29,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 82,
-    "medium": 57,
+    "medium": 58,
     "hard": 3,
     "basic": 26
   },
@@ -178,7 +178,8 @@
     "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
     "LeetCode_Get_Equal_Substrings_Within_Budget": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
-    "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true
+    "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
+    "LeetCode_Longest_Repeating_Character_Replacement": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -219,9 +220,10 @@
     "2026-08-17": 2,
     "2026-08-18": 1,
     "2026-08-19": 2,
-    "2026-08-20": 1
+    "2026-08-20": 2
   },
   "todayProblems": [
-    "Distribute Elements Into Two Arrays I"
+    "Distribute Elements Into Two Arrays I",
+    "Longest Repeating Character Replacement"
   ]
 }
