@@ -105,3 +105,4 @@
 | 103 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 18 Aug 2026 | 02:37 pm |
 | 104 | [Get Equal Substrings Within Budget](./LeetCode/Medium/Get%20Equal%20Substrings%20Within%20Budget) | [LeetCode](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Medium | 19 Aug 2026 | 07:01 pm |
 | 105 | [Max Sum Subarray of size K](./GeeksForGeeks/Medium/Max%20Sum%20Subarray%20of%20size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Medium | 19 Aug 2026 | 07:08 pm |
+| 106 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 20 Aug 2026 | 09:07 pm |
