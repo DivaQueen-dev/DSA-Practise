@@ -108,3 +108,4 @@
 | 106 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 20 Aug 2026 | 09:07 pm |
 | 107 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 20 Aug 2026 | 09:11 pm |
 | 108 | [Transform String](./GeeksForGeeks/Medium/Transform%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transform-string5648/1) | Medium | 21 Aug 2026 | 08:25 am |
+| 109 | [Minimum Value to Get Positive Step by Step Sum](./LeetCode/Easy/Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | Easy | 21 Aug 2026 | 09:09 am |

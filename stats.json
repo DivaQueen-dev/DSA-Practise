@@ -1,11 +1,11 @@
 {
-  "totalSolved": 170,
+  "totalSolved": 171,
   "currentStreak": 30,
   "maxStreak": 30,
   "lastSyncDate": "2026-08-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 82,
+    "easy": 83,
     "medium": 59,
     "hard": 3,
     "basic": 26
@@ -180,7 +180,8 @@
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
     "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
     "LeetCode_Longest_Repeating_Character_Replacement": true,
-    "GeeksForGeeks_Transform_String": true
+    "GeeksForGeeks_Transform_String": true,
+    "LeetCode_Minimum_Value_to_Get_Positive_Step_by_Step_Sum": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -222,9 +223,10 @@
     "2026-08-18": 1,
     "2026-08-19": 2,
     "2026-08-20": 2,
-    "2026-08-21": 1
+    "2026-08-21": 2
   },
   "todayProblems": [
-    "Transform String"
+    "Transform String",
+    "Minimum Value to Get Positive Step by Step Sum"
   ]
 }
