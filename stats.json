@@ -1,13 +1,13 @@
 {
-  "totalSolved": 176,
+  "totalSolved": 177,
   "currentStreak": 33,
   "maxStreak": 33,
   "lastSyncDate": "2026-08-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 88,
     "medium": 59,
-    "hard": 3,
+    "hard": 4,
     "basic": 26
   },
   "syncedProblems": {
@@ -186,7 +186,8 @@
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
     "LeetCode_Pascal's_Triangle": true,
     "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
-    "GeeksForGeeks_Count_Prefix-Balanced_Binary_Strings": true
+    "GeeksForGeeks_Count_Prefix-Balanced_Binary_Strings": true,
+    "LeetCode_Reverse_Pairs": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -231,9 +232,10 @@
     "2026-08-21": 2,
     "2026-08-22": 2,
     "2026-08-23": 2,
-    "2026-08-24": 1
+    "2026-08-24": 2
   },
   "todayProblems": [
-    "Count Prefix-Balanced Binary Strings"
+    "Count Prefix-Balanced Binary Strings",
+    "Reverse Pairs"
   ]
 }
