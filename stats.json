@@ -1,11 +1,11 @@
 {
-  "totalSolved": 175,
-  "currentStreak": 32,
-  "maxStreak": 32,
-  "lastSyncDate": "2026-08-23",
-  "todayCount": 2,
+  "totalSolved": 176,
+  "currentStreak": 33,
+  "maxStreak": 33,
+  "lastSyncDate": "2026-08-24",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 87,
+    "easy": 88,
     "medium": 59,
     "hard": 3,
     "basic": 26
@@ -185,7 +185,8 @@
     "LeetCode_Guess_Number_Higher_or_Lower": true,
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
     "LeetCode_Pascal's_Triangle": true,
-    "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true
+    "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
+    "GeeksForGeeks_Count_Prefix-Balanced_Binary_Strings": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -229,10 +230,10 @@
     "2026-08-20": 2,
     "2026-08-21": 2,
     "2026-08-22": 2,
-    "2026-08-23": 2
+    "2026-08-23": 2,
+    "2026-08-24": 1
   },
   "todayProblems": [
-    "Pascal's Triangle",
-    "Pairs with Less Than K Diff"
+    "Count Prefix-Balanced Binary Strings"
   ]
 }
