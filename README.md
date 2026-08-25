@@ -115,3 +115,4 @@
 | 113 | [Pairs with Less Than K Diff](./GeeksForGeeks/Easy/Pairs%20with%20Less%20Than%20K%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pairs-with-difference-less-than-k1348/1) | Easy | 23 Aug 2026 | 09:08 am |
 | 114 | [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/Easy/Count%20Prefix-Balanced%20Binary%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1) | Easy | 24 Aug 2026 | 03:07 pm |
 | 115 | [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) | [LeetCode](https://leetcode.com/problems/reverse-pairs/) | Hard | 24 Aug 2026 | 08:49 pm |
+| 116 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 11:00 am |

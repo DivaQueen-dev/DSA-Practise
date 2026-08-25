@@ -1,11 +1,11 @@
 {
-  "totalSolved": 177,
-  "currentStreak": 33,
-  "maxStreak": 33,
-  "lastSyncDate": "2026-08-24",
-  "todayCount": 2,
+  "totalSolved": 178,
+  "currentStreak": 34,
+  "maxStreak": 34,
+  "lastSyncDate": "2026-08-25",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 88,
+    "easy": 89,
     "medium": 59,
     "hard": 4,
     "basic": 26
@@ -187,7 +187,8 @@
     "LeetCode_Pascal's_Triangle": true,
     "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
     "GeeksForGeeks_Count_Prefix-Balanced_Binary_Strings": true,
-    "LeetCode_Reverse_Pairs": true
+    "LeetCode_Reverse_Pairs": true,
+    "LeetCode_Smallest_Missing_Multiple_of_K": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -232,10 +233,10 @@
     "2026-08-21": 2,
     "2026-08-22": 2,
     "2026-08-23": 2,
-    "2026-08-24": 2
+    "2026-08-24": 2,
+    "2026-08-25": 1
   },
   "todayProblems": [
-    "Count Prefix-Balanced Binary Strings",
-    "Reverse Pairs"
+    "Smallest Missing Multiple of K"
   ]
 }
