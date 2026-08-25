@@ -1,12 +1,12 @@
 {
-  "totalSolved": 178,
+  "totalSolved": 179,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 89,
-    "medium": 59,
+    "medium": 60,
     "hard": 4,
     "basic": 26
   },
@@ -188,7 +188,8 @@
     "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
     "GeeksForGeeks_Count_Prefix-Balanced_Binary_Strings": true,
     "LeetCode_Reverse_Pairs": true,
-    "LeetCode_Smallest_Missing_Multiple_of_K": true
+    "LeetCode_Smallest_Missing_Multiple_of_K": true,
+    "LeetCode_Subarray_Sums_Divisible_by_K": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -234,9 +235,10 @@
     "2026-08-22": 2,
     "2026-08-23": 2,
     "2026-08-24": 2,
-    "2026-08-25": 1
+    "2026-08-25": 2
   },
   "todayProblems": [
-    "Smallest Missing Multiple of K"
+    "Smallest Missing Multiple of K",
+    "Subarray Sums Divisible by K"
   ]
 }

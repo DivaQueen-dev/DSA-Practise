@@ -116,3 +116,4 @@
 | 114 | [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/Easy/Count%20Prefix-Balanced%20Binary%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1) | Easy | 24 Aug 2026 | 03:07 pm |
 | 115 | [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) | [LeetCode](https://leetcode.com/problems/reverse-pairs/) | Hard | 24 Aug 2026 | 08:49 pm |
 | 116 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 11:00 am |
+| 117 | [Subarray Sums Divisible by K](./LeetCode/Medium/Subarray%20Sums%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | 25 Aug 2026 | 12:16 pm |
