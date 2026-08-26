@@ -1,11 +1,11 @@
 {
-  "totalSolved": 182,
+  "totalSolved": 183,
   "currentStreak": 35,
   "maxStreak": 35,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 91,
+    "easy": 92,
     "medium": 61,
     "hard": 4,
     "basic": 26
@@ -192,7 +192,8 @@
     "LeetCode_Subarray_Sums_Divisible_by_K": true,
     "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true,
     "LeetCode_Create_Hello_World_Function": true,
-    "LeetCode_Counter": true
+    "LeetCode_Counter": true,
+    "LeetCode_To_Be_Or_Not_To_Be": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -239,11 +240,12 @@
     "2026-08-23": 2,
     "2026-08-24": 2,
     "2026-08-25": 2,
-    "2026-08-26": 3
+    "2026-08-26": 4
   },
   "todayProblems": [
     "Shortest and Lexicographically Smallest Beautiful String",
     "Create Hello World Function",
-    "Counter"
+    "Counter",
+    "To Be Or Not To Be"
   ]
 }

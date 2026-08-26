@@ -120,3 +120,4 @@
 | 118 | [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) | [LeetCode](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | 26 Aug 2026 | 10:50 am |
 | 119 | [Create Hello World Function](./LeetCode/Easy/Create%20Hello%20World%20Function) | [LeetCode](https://leetcode.com/problems/create-hello-world-function/) | Easy | 26 Aug 2026 | 11:05 am |
 | 120 | [Counter](./LeetCode/Easy/Counter) | [LeetCode](https://leetcode.com/problems/counter/) | Easy | 26 Aug 2026 | 11:12 am |
+| 121 | [To Be Or Not To Be](./LeetCode/Easy/To%20Be%20Or%20Not%20To%20Be) | [LeetCode](https://leetcode.com/problems/to-be-or-not-to-be/) | Easy | 26 Aug 2026 | 11:13 am |
