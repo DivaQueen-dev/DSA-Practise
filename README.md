@@ -121,3 +121,4 @@
 | 119 | [Create Hello World Function](./LeetCode/Easy/Create%20Hello%20World%20Function) | [LeetCode](https://leetcode.com/problems/create-hello-world-function/) | Easy | 26 Aug 2026 | 11:05 am |
 | 120 | [Counter](./LeetCode/Easy/Counter) | [LeetCode](https://leetcode.com/problems/counter/) | Easy | 26 Aug 2026 | 11:12 am |
 | 121 | [To Be Or Not To Be](./LeetCode/Easy/To%20Be%20Or%20Not%20To%20Be) | [LeetCode](https://leetcode.com/problems/to-be-or-not-to-be/) | Easy | 26 Aug 2026 | 11:13 am |
+| 122 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 26 Aug 2026 | 04:02 pm |
