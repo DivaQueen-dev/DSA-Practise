@@ -119,3 +119,4 @@
 | 117 | [Subarray Sums Divisible by K](./LeetCode/Medium/Subarray%20Sums%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | 25 Aug 2026 | 12:16 pm |
 | 118 | [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) | [LeetCode](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | 26 Aug 2026 | 10:50 am |
 | 119 | [Create Hello World Function](./LeetCode/Easy/Create%20Hello%20World%20Function) | [LeetCode](https://leetcode.com/problems/create-hello-world-function/) | Easy | 26 Aug 2026 | 11:05 am |
+| 120 | [Counter](./LeetCode/Easy/Counter) | [LeetCode](https://leetcode.com/problems/counter/) | Easy | 26 Aug 2026 | 11:12 am |
