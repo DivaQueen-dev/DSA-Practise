@@ -1,12 +1,12 @@
 {
-  "totalSolved": 187,
+  "totalSolved": 188,
   "currentStreak": 36,
   "maxStreak": 36,
   "lastSyncDate": "2026-08-27",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 93,
-    "medium": 64,
+    "medium": 65,
     "hard": 4,
     "basic": 26
   },
@@ -197,7 +197,8 @@
     "LeetCode_Valid_Sudoku": true,
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
     "LeetCode_Search_Insert_Position": true,
-    "LeetCode_Single_Element_in_a_Sorted_Array": true
+    "LeetCode_Single_Element_in_a_Sorted_Array": true,
+    "LeetCode_4Sum_II": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -245,11 +246,12 @@
     "2026-08-24": 2,
     "2026-08-25": 2,
     "2026-08-26": 5,
-    "2026-08-27": 3
+    "2026-08-27": 4
   },
   "todayProblems": [
     "Find First and Last Position of Element in Sorted Array",
     "Search Insert Position",
-    "Single Element in a Sorted Array"
+    "Single Element in a Sorted Array",
+    "4Sum II"
   ]
 }
