@@ -1,11 +1,11 @@
 {
-  "totalSolved": 190,
+  "totalSolved": 191,
   "currentStreak": 37,
   "maxStreak": 37,
   "lastSyncDate": "2026-08-28",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 93,
+    "easy": 94,
     "medium": 67,
     "hard": 4,
     "basic": 26
@@ -200,7 +200,8 @@
     "LeetCode_Single_Element_in_a_Sorted_Array": true,
     "LeetCode_4Sum_II": true,
     "LeetCode_4Sum": true,
-    "LeetCode_Partition_Labels": true
+    "LeetCode_Partition_Labels": true,
+    "LeetCode_Longest_Palindrome": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -249,10 +250,11 @@
     "2026-08-25": 2,
     "2026-08-26": 5,
     "2026-08-27": 4,
-    "2026-08-28": 2
+    "2026-08-28": 3
   },
   "todayProblems": [
     "4Sum",
-    "Partition Labels"
+    "Partition Labels",
+    "Longest Palindrome"
   ]
 }
