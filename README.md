@@ -127,3 +127,4 @@
 | 125 | [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | 27 Aug 2026 | 09:13 pm |
 | 126 | [4Sum II](./LeetCode/Medium/4Sum%20II) | [LeetCode](https://leetcode.com/problems/4sum-ii/) | Medium | 27 Aug 2026 | 09:17 pm |
 | 127 | [4Sum](./LeetCode/Medium/4Sum) | [LeetCode](https://leetcode.com/problems/4sum/) | Medium | 28 Aug 2026 | 04:01 pm |
+| 128 | [Partition Labels](./LeetCode/Medium/Partition%20Labels) | [LeetCode](https://leetcode.com/problems/partition-labels/) | Medium | 28 Aug 2026 | 04:03 pm |
