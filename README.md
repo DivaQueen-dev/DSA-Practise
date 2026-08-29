@@ -130,3 +130,4 @@
 | 128 | [Partition Labels](./LeetCode/Medium/Partition%20Labels) | [LeetCode](https://leetcode.com/problems/partition-labels/) | Medium | 28 Aug 2026 | 04:03 pm |
 | 129 | [Longest Palindrome](./LeetCode/Easy/Longest%20Palindrome) | [LeetCode](https://leetcode.com/problems/longest-palindrome/) | Easy | 28 Aug 2026 | 04:04 pm |
 | 130 | [Count Subsequences Divisible by n](./GeeksForGeeks/Medium/Count%20Subsequences%20Divisible%20by%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-subsequences-in-a-string-divisible-by-n5947/1) | Medium | 29 Aug 2026 | 07:53 pm |
+| 131 | [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | Easy | 29 Aug 2026 | 08:55 pm |
