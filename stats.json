@@ -1,11 +1,11 @@
 {
-  "totalSolved": 193,
+  "totalSolved": 194,
   "currentStreak": 38,
   "maxStreak": 38,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 95,
+    "easy": 96,
     "medium": 68,
     "hard": 4,
     "basic": 26
@@ -203,7 +203,8 @@
     "LeetCode_Partition_Labels": true,
     "LeetCode_Longest_Palindrome": true,
     "GeeksForGeeks_Count_Subsequences_Divisible_by_n": true,
-    "LeetCode_Find_Pivot_Index": true
+    "LeetCode_Find_Pivot_Index": true,
+    "LeetCode_Find_the_Highest_Altitude": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -253,10 +254,11 @@
     "2026-08-26": 5,
     "2026-08-27": 4,
     "2026-08-28": 3,
-    "2026-08-29": 2
+    "2026-08-29": 3
   },
   "todayProblems": [
     "Count Subsequences Divisible by n",
-    "Find Pivot Index"
+    "Find Pivot Index",
+    "Find the Highest Altitude"
   ]
 }
