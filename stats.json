@@ -1,12 +1,12 @@
 {
-  "totalSolved": 195,
-  "currentStreak": 39,
-  "maxStreak": 39,
-  "lastSyncDate": "2026-08-30",
+  "totalSolved": 196,
+  "currentStreak": 40,
+  "maxStreak": 40,
+  "lastSyncDate": "2026-08-31",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 96,
-    "medium": 69,
+    "medium": 70,
     "hard": 4,
     "basic": 26
   },
@@ -205,7 +205,8 @@
     "GeeksForGeeks_Count_Subsequences_Divisible_by_n": true,
     "LeetCode_Find_Pivot_Index": true,
     "LeetCode_Find_the_Highest_Altitude": true,
-    "LeetCode_Removing_Minimum_and_Maximum_From_Array": true
+    "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -256,9 +257,10 @@
     "2026-08-27": 4,
     "2026-08-28": 3,
     "2026-08-29": 3,
-    "2026-08-30": 1
+    "2026-08-30": 1,
+    "2026-08-31": 1
   },
   "todayProblems": [
-    "Removing Minimum and Maximum From Array"
+    "Find Minimum in Rotated Sorted Array"
   ]
 }
