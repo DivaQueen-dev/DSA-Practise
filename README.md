@@ -134,3 +134,4 @@
 | 132 | [Find the Highest Altitude](./LeetCode/Easy/Find%20the%20Highest%20Altitude) | [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 29 Aug 2026 | 08:56 pm |
 | 133 | [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) | [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 30 Aug 2026 | 09:56 am |
 | 134 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 31 Aug 2026 | 09:04 pm |
+| 135 | [Minimum Cost for n Characters](./GeeksForGeeks/Medium/Minimum%20Cost%20for%20n%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-time1238/1) | Medium | 31 Aug 2026 | 09:09 pm |
