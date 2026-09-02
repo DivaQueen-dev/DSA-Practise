@@ -138,3 +138,4 @@
 | 136 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 01 Sept 2026 | 08:25 pm |
 | 137 | [Find the Smallest Divisor Given a Threshold](./LeetCode/Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold) | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Medium | 02 Sept 2026 | 09:01 pm |
 | 138 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 09:09 pm |
+| 139 | [Unoccupied Computers](./GeeksForGeeks/Easy/Unoccupied%20Computers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | Easy | 02 Sept 2026 | 09:16 pm |
