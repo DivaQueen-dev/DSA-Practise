@@ -136,3 +136,4 @@
 | 134 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 31 Aug 2026 | 09:04 pm |
 | 135 | [Minimum Cost for n Characters](./GeeksForGeeks/Medium/Minimum%20Cost%20for%20n%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-time1238/1) | Medium | 31 Aug 2026 | 09:09 pm |
 | 136 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 01 Sept 2026 | 08:25 pm |
+| 137 | [Find the Smallest Divisor Given a Threshold](./LeetCode/Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold) | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Medium | 02 Sept 2026 | 09:01 pm |

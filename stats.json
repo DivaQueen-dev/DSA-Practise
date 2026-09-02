@@ -1,12 +1,12 @@
 {
-  "totalSolved": 198,
-  "currentStreak": 41,
-  "maxStreak": 41,
-  "lastSyncDate": "2026-09-01",
+  "totalSolved": 199,
+  "currentStreak": 42,
+  "maxStreak": 42,
+  "lastSyncDate": "2026-09-02",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 96,
-    "medium": 72,
+    "medium": 73,
     "hard": 4,
     "basic": 26
   },
@@ -208,7 +208,8 @@
     "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "GeeksForGeeks_Minimum_Cost_for_n_Characters": true,
-    "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true
+    "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
+    "LeetCode_Find_the_Smallest_Divisor_Given_a_Threshold": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -261,9 +262,10 @@
     "2026-08-29": 3,
     "2026-08-30": 1,
     "2026-08-31": 2,
-    "2026-09-01": 1
+    "2026-09-01": 1,
+    "2026-09-02": 1
   },
   "todayProblems": [
-    "Capacity To Ship Packages Within D Days"
+    "Find the Smallest Divisor Given a Threshold"
   ]
 }
