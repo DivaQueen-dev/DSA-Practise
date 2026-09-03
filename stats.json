@@ -1,12 +1,12 @@
 {
-  "totalSolved": 201,
-  "currentStreak": 42,
-  "maxStreak": 42,
-  "lastSyncDate": "2026-09-02",
-  "todayCount": 3,
+  "totalSolved": 202,
+  "currentStreak": 43,
+  "maxStreak": 43,
+  "lastSyncDate": "2026-09-03",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 98,
-    "medium": 73,
+    "medium": 74,
     "hard": 4,
     "basic": 26
   },
@@ -211,7 +211,8 @@
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
     "LeetCode_Find_the_Smallest_Divisor_Given_a_Threshold": true,
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
-    "GeeksForGeeks_Unoccupied_Computers": true
+    "GeeksForGeeks_Unoccupied_Computers": true,
+    "LeetCode_Continuous_Subarray_Sum": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -265,11 +266,10 @@
     "2026-08-30": 1,
     "2026-08-31": 2,
     "2026-09-01": 1,
-    "2026-09-02": 3
+    "2026-09-02": 3,
+    "2026-09-03": 1
   },
   "todayProblems": [
-    "Find the Smallest Divisor Given a Threshold",
-    "Construct Uniform Parity Array I",
-    "Unoccupied Computers"
+    "Continuous Subarray Sum"
   ]
 }
