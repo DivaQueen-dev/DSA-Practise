@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 5 |
+| 8 | 6 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (3)
+- [math](#math) (1)
 - [strings](#strings) (2)
 
 ---
@@ -48,6 +49,12 @@
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Java 21](https://github.com/DivaQueen-dev/DSA-Practise/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/DivaQueen-dev/DSA-Practise/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Java 21](https://github.com/DivaQueen-dev/DSA-Practise/blob/HEAD/705/A%20-%20Hulk/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1542A | [Odd Set](https://codeforces.com/contest/1542/problem/A) | 800 | [Java 21](https://github.com/DivaQueen-dev/DSA-Practise/blob/HEAD/1542/A%20-%20Odd%20Set/solution.java) |
 
 ### strings
 
