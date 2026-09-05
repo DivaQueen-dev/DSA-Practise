@@ -1,11 +1,11 @@
 {
-  "totalSolved": 202,
-  "currentStreak": 43,
+  "totalSolved": 203,
+  "currentStreak": 1,
   "maxStreak": 43,
-  "lastSyncDate": "2026-09-03",
+  "lastSyncDate": "2026-09-05",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 98,
+    "easy": 99,
     "medium": 74,
     "hard": 4,
     "basic": 26
@@ -212,7 +212,8 @@
     "LeetCode_Find_the_Smallest_Divisor_Given_a_Threshold": true,
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
     "GeeksForGeeks_Unoccupied_Computers": true,
-    "LeetCode_Continuous_Subarray_Sum": true
+    "LeetCode_Continuous_Subarray_Sum": true,
+    "LeetCode_Sum_of_Compatible_Numbers_in_Range_I": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -267,9 +268,10 @@
     "2026-08-31": 2,
     "2026-09-01": 1,
     "2026-09-02": 3,
-    "2026-09-03": 1
+    "2026-09-03": 1,
+    "2026-09-05": 1
   },
   "todayProblems": [
-    "Continuous Subarray Sum"
+    "Sum of Compatible Numbers in Range I"
   ]
 }
