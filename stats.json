@@ -1,12 +1,12 @@
 {
-  "totalSolved": 203,
+  "totalSolved": 204,
   "currentStreak": 1,
   "maxStreak": 43,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 99,
-    "medium": 74,
+    "medium": 75,
     "hard": 4,
     "basic": 26
   },
@@ -213,7 +213,8 @@
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
     "GeeksForGeeks_Unoccupied_Computers": true,
     "LeetCode_Continuous_Subarray_Sum": true,
-    "LeetCode_Sum_of_Compatible_Numbers_in_Range_I": true
+    "LeetCode_Sum_of_Compatible_Numbers_in_Range_I": true,
+    "LeetCode_Corporate_Flight_Bookings": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -269,9 +270,10 @@
     "2026-09-01": 1,
     "2026-09-02": 3,
     "2026-09-03": 1,
-    "2026-09-05": 1
+    "2026-09-05": 2
   },
   "todayProblems": [
-    "Sum of Compatible Numbers in Range I"
+    "Sum of Compatible Numbers in Range I",
+    "Corporate Flight Bookings"
   ]
 }
