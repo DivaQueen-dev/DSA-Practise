@@ -7,3 +7,4 @@
 | 5 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 07 Sept 2026 | 03:43 pm |
 | 6 | [Word in Grid - All Occurrences](./GeeksForGeeks/Medium/Word%20in%20Grid%20-%20All%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) | Medium | 08 Sept 2026 | 08:59 pm |
 | 7 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 09:00 pm |
+| 8 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 06:42 pm |
