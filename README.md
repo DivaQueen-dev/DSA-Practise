@@ -10,3 +10,4 @@
 | 8 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 06:42 pm |
 | 9 | [Start Coding](./GeeksForGeeks/Medium/Start%20Coding) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/start-coding-1/1) | Medium | 09 Sept 2026 | 06:44 pm |
 | 10 | [While Loop](./GeeksForGeeks/Medium/While%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/while-loop/1) | Medium | 09 Sept 2026 | 06:47 pm |
+| 11 | [Maximum Score of a Split](./LeetCode/Medium/Maximum%20Score%20of%20a%20Split) | [LeetCode](https://leetcode.com/problems/maximum-score-of-a-split/) | Medium | 10 Sept 2026 | 10:01 pm |
