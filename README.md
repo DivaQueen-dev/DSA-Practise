@@ -13,3 +13,4 @@
 | 11 | [Maximum Score of a Split](./LeetCode/Medium/Maximum%20Score%20of%20a%20Split) | [LeetCode](https://leetcode.com/problems/maximum-score-of-a-split/) | Medium | 10 Sept 2026 | 10:01 pm |
 | 12 | [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | 10 Sept 2026 | 10:06 pm |
 | 13 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 09:24 pm |
+| 14 | [Max Product Subsequence of Size K](./GeeksForGeeks/Medium/Max%20Product%20Subsequence%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-product4633/1) | Medium | 12 Sept 2026 | 08:14 pm |

@@ -1,12 +1,12 @@
 {
-  "totalSolved": 214,
-  "currentStreak": 7,
+  "totalSolved": 215,
+  "currentStreak": 8,
   "maxStreak": 43,
-  "lastSyncDate": "2026-09-11",
+  "lastSyncDate": "2026-09-12",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 102,
-    "medium": 82,
+    "medium": 83,
     "hard": 4,
     "basic": 26
   },
@@ -224,7 +224,8 @@
     "GeeksForGeeks_While_Loop": true,
     "LeetCode_Maximum_Score_of_a_Split": true,
     "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
-    "LeetCode_Unique_3-Digit_Even_Numbers": true
+    "LeetCode_Unique_3-Digit_Even_Numbers": true,
+    "GeeksForGeeks_Max_Product_Subsequence_of_Size_K": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -286,9 +287,10 @@
     "2026-09-08": 2,
     "2026-09-09": 3,
     "2026-09-10": 2,
-    "2026-09-11": 1
+    "2026-09-11": 1,
+    "2026-09-12": 1
   },
   "todayProblems": [
-    "Unique 3-Digit Even Numbers"
+    "Max Product Subsequence of Size K"
   ]
 }
