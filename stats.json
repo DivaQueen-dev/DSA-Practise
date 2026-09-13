@@ -1,12 +1,12 @@
 {
-  "totalSolved": 217,
+  "totalSolved": 218,
   "currentStreak": 9,
   "maxStreak": 43,
   "lastSyncDate": "2026-09-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 103,
-    "medium": 84,
+    "medium": 85,
     "hard": 4,
     "basic": 26
   },
@@ -227,7 +227,8 @@
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
     "GeeksForGeeks_Max_Product_Subsequence_of_Size_K": true,
     "LeetCode_Lexicographical_Numbers": true,
-    "LeetCode_Find_the_Middle_Index_in_Array": true
+    "LeetCode_Find_the_Middle_Index_in_Array": true,
+    "GeeksForGeeks_Express_as_Consecutive_Number_Sum": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -291,9 +292,10 @@
     "2026-09-10": 2,
     "2026-09-11": 1,
     "2026-09-12": 2,
-    "2026-09-13": 1
+    "2026-09-13": 2
   },
   "todayProblems": [
-    "Find the Middle Index in Array"
+    "Find the Middle Index in Array",
+    "Express as Consecutive Number Sum"
   ]
 }
