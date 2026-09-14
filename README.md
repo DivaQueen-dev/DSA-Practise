@@ -17,3 +17,4 @@
 | 15 | [Lexicographical Numbers](./LeetCode/Medium/Lexicographical%20Numbers) | [LeetCode](https://leetcode.com/problems/lexicographical-numbers/) | Medium | 12 Sept 2026 | 08:45 pm |
 | 16 | [Find the Middle Index in Array](./LeetCode/Easy/Find%20the%20Middle%20Index%20in%20Array) | [LeetCode](https://leetcode.com/problems/find-the-middle-index-in-array/) | Easy | 13 Sept 2026 | 03:05 pm |
 | 17 | [Express as Consecutive Number Sum](./GeeksForGeeks/Medium/Express%20as%20Consecutive%20Number%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/consecutive-numbers-for-sum3132/1) | Medium | 13 Sept 2026 | 03:42 pm |
+| 18 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 14 Sept 2026 | 05:17 pm |
