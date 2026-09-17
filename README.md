@@ -20,3 +20,4 @@
 | 18 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 14 Sept 2026 | 05:17 pm |
 | 19 | [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) | [LeetCode](https://leetcode.com/problems/daily-temperatures/) | Medium | 15 Sept 2026 | 02:55 pm |
 | 20 | [Keyboard Row](./LeetCode/Easy/Keyboard%20Row) | [LeetCode](https://leetcode.com/problems/keyboard-row/) | Easy | 16 Sept 2026 | 09:22 pm |
+| 21 | [Lexicographically Smallest String After Reverse](./LeetCode/Medium/Lexicographically%20Smallest%20String%20After%20Reverse) | [LeetCode](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/) | Medium | 17 Sept 2026 | 08:58 pm |
