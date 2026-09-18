@@ -21,3 +21,4 @@
 | 19 | [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) | [LeetCode](https://leetcode.com/problems/daily-temperatures/) | Medium | 15 Sept 2026 | 02:55 pm |
 | 20 | [Keyboard Row](./LeetCode/Easy/Keyboard%20Row) | [LeetCode](https://leetcode.com/problems/keyboard-row/) | Easy | 16 Sept 2026 | 09:22 pm |
 | 21 | [Lexicographically Smallest String After Reverse](./LeetCode/Medium/Lexicographically%20Smallest%20String%20After%20Reverse) | [LeetCode](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/) | Medium | 17 Sept 2026 | 08:58 pm |
+| 22 | [Digit Frequency Score](./LeetCode/Easy/Digit%20Frequency%20Score) | [LeetCode](https://leetcode.com/problems/digit-frequency-score/) | Easy | 18 Sept 2026 | 10:23 pm |
