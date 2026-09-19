@@ -22,3 +22,4 @@
 | 20 | [Keyboard Row](./LeetCode/Easy/Keyboard%20Row) | [LeetCode](https://leetcode.com/problems/keyboard-row/) | Easy | 16 Sept 2026 | 09:22 pm |
 | 21 | [Lexicographically Smallest String After Reverse](./LeetCode/Medium/Lexicographically%20Smallest%20String%20After%20Reverse) | [LeetCode](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/) | Medium | 17 Sept 2026 | 08:58 pm |
 | 22 | [Digit Frequency Score](./LeetCode/Easy/Digit%20Frequency%20Score) | [LeetCode](https://leetcode.com/problems/digit-frequency-score/) | Easy | 18 Sept 2026 | 10:23 pm |
+| 23 | [Count Substrings That Satisfy K-Constraint I](./LeetCode/Easy/Count%20Substrings%20That%20Satisfy%20K-Constraint%20I) | [LeetCode](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/) | Easy | 19 Sept 2026 | 04:30 pm |
