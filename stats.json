@@ -1,12 +1,12 @@
 {
-  "totalSolved": 226,
-  "currentStreak": 17,
+  "totalSolved": 227,
+  "currentStreak": 18,
   "maxStreak": 43,
-  "lastSyncDate": "2026-09-21",
+  "lastSyncDate": "2026-09-22",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 108,
-    "medium": 88,
+    "medium": 89,
     "hard": 4,
     "basic": 26
   },
@@ -236,7 +236,8 @@
     "LeetCode_Digit_Frequency_Score": true,
     "LeetCode_Count_Substrings_That_Satisfy_K-Constraint_I": true,
     "LeetCode_Reverse_Degree_of_a_String": true,
-    "LeetCode_Design_Circular_Queue": true
+    "LeetCode_Design_Circular_Queue": true,
+    "LeetCode_Dota2_Senate": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -308,9 +309,10 @@
     "2026-09-18": 1,
     "2026-09-19": 1,
     "2026-09-20": 1,
-    "2026-09-21": 1
+    "2026-09-21": 1,
+    "2026-09-22": 1
   },
   "todayProblems": [
-    "Design Circular Queue"
+    "Dota2 Senate"
   ]
 }

@@ -25,3 +25,4 @@
 | 23 | [Count Substrings That Satisfy K-Constraint I](./LeetCode/Easy/Count%20Substrings%20That%20Satisfy%20K-Constraint%20I) | [LeetCode](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/) | Easy | 19 Sept 2026 | 04:30 pm |
 | 24 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 09:00 am |
 | 25 | [Design Circular Queue](./LeetCode/Medium/Design%20Circular%20Queue) | [LeetCode](https://leetcode.com/problems/design-circular-queue/) | Medium | 21 Sept 2026 | 03:00 pm |
+| 26 | [Dota2 Senate](./LeetCode/Medium/Dota2%20Senate) | [LeetCode](https://leetcode.com/problems/dota2-senate/) | Medium | 22 Sept 2026 | 03:06 pm |
