@@ -28,3 +28,4 @@
 | 26 | [Dota2 Senate](./LeetCode/Medium/Dota2%20Senate) | [LeetCode](https://leetcode.com/problems/dota2-senate/) | Medium | 22 Sept 2026 | 03:06 pm |
 | 27 | [Time Needed to Buy Tickets](./LeetCode/Easy/Time%20Needed%20to%20Buy%20Tickets) | [LeetCode](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Easy | 22 Sept 2026 | 03:38 pm |
 | 28 | [Design Circular Deque](./LeetCode/Medium/Design%20Circular%20Deque) | [LeetCode](https://leetcode.com/problems/design-circular-deque/) | Medium | 23 Sept 2026 | 07:51 pm |
+| 29 | [Dominant Pairs](./GeeksForGeeks/Medium/Dominant%20Pairs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/dominant-pairs/1) | Medium | 23 Sept 2026 | 07:55 pm |
