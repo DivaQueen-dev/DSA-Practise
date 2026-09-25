@@ -1,12 +1,12 @@
 {
-  "totalSolved": 231,
-  "currentStreak": 20,
+  "totalSolved": 232,
+  "currentStreak": 21,
   "maxStreak": 43,
-  "lastSyncDate": "2026-09-24",
+  "lastSyncDate": "2026-09-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 110,
-    "medium": 91,
+    "medium": 92,
     "hard": 4,
     "basic": 26
   },
@@ -241,7 +241,8 @@
     "LeetCode_Time_Needed_to_Buy_Tickets": true,
     "LeetCode_Design_Circular_Deque": true,
     "GeeksForGeeks_Dominant_Pairs": true,
-    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
+    "GeeksForGeeks_Equilibrium_Point": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -316,9 +317,10 @@
     "2026-09-21": 1,
     "2026-09-22": 2,
     "2026-09-23": 2,
-    "2026-09-24": 1
+    "2026-09-24": 1,
+    "2026-09-25": 1
   },
   "todayProblems": [
-    "Smallest Index With Digit Sum Equal to Index"
+    "Equilibrium Point"
   ]
 }
