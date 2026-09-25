@@ -31,3 +31,4 @@
 | 29 | [Dominant Pairs](./GeeksForGeeks/Medium/Dominant%20Pairs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/dominant-pairs/1) | Medium | 23 Sept 2026 | 07:55 pm |
 | 30 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 06:16 pm |
 | 31 | [Equilibrium Point](./GeeksForGeeks/Medium/Equilibrium%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | Medium | 25 Sept 2026 | 12:04 pm |
+| 32 | [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 25 Sept 2026 | 12:43 pm |
