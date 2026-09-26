@@ -32,3 +32,4 @@
 | 30 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 06:16 pm |
 | 31 | [Equilibrium Point](./GeeksForGeeks/Medium/Equilibrium%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | Medium | 25 Sept 2026 | 12:04 pm |
 | 32 | [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 25 Sept 2026 | 12:43 pm |
+| 33 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 26 Sept 2026 | 10:12 pm |

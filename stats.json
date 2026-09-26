@@ -1,12 +1,12 @@
 {
-  "totalSolved": 233,
-  "currentStreak": 21,
+  "totalSolved": 234,
+  "currentStreak": 22,
   "maxStreak": 43,
-  "lastSyncDate": "2026-09-25",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 110,
-    "medium": 93,
+    "medium": 94,
     "hard": 4,
     "basic": 26
   },
@@ -243,7 +243,8 @@
     "GeeksForGeeks_Dominant_Pairs": true,
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "GeeksForGeeks_Equilibrium_Point": true,
-    "LeetCode_Rearrange_Array_Elements_by_Sign": true
+    "LeetCode_Rearrange_Array_Elements_by_Sign": true,
+    "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -319,10 +320,10 @@
     "2026-09-22": 2,
     "2026-09-23": 2,
     "2026-09-24": 1,
-    "2026-09-25": 2
+    "2026-09-25": 2,
+    "2026-09-26": 1
   },
   "todayProblems": [
-    "Equilibrium Point",
-    "Rearrange Array Elements by Sign"
+    "Evaluate the Bracket Pairs of a String"
   ]
 }
