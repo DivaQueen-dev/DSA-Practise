@@ -34,3 +34,4 @@
 | 32 | [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 25 Sept 2026 | 12:43 pm |
 | 33 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 26 Sept 2026 | 10:12 pm |
 | 34 | [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | 27 Sept 2026 | 08:39 pm |
+| 35 | [Sliding Window Maximum](./LeetCode/Hard/Sliding%20Window%20Maximum) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) | Hard | 28 Sept 2026 | 03:25 pm |

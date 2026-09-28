@@ -1,13 +1,13 @@
 {
-  "totalSolved": 235,
-  "currentStreak": 23,
+  "totalSolved": 236,
+  "currentStreak": 24,
   "maxStreak": 43,
-  "lastSyncDate": "2026-09-27",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 110,
     "medium": 95,
-    "hard": 4,
+    "hard": 5,
     "basic": 26
   },
   "syncedProblems": {
@@ -245,7 +245,8 @@
     "GeeksForGeeks_Equilibrium_Point": true,
     "LeetCode_Rearrange_Array_Elements_by_Sign": true,
     "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true,
-    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true
+    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
+    "LeetCode_Sliding_Window_Maximum": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -323,9 +324,10 @@
     "2026-09-24": 1,
     "2026-09-25": 2,
     "2026-09-26": 1,
-    "2026-09-27": 1
+    "2026-09-27": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "Reverse Substrings Between Each Pair of Parentheses"
+    "Sliding Window Maximum"
   ]
 }
