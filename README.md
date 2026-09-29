@@ -37,3 +37,4 @@
 | 35 | [Sliding Window Maximum](./LeetCode/Hard/Sliding%20Window%20Maximum) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) | Hard | 28 Sept 2026 | 03:25 pm |
 | 36 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 07:58 pm |
 | 37 | [Design Linked List](./LeetCode/Medium/Design%20Linked%20List) | [LeetCode](https://leetcode.com/problems/design-linked-list/) | Medium | 29 Sept 2026 | 03:08 pm |
+| 38 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 29 Sept 2026 | 03:44 pm |
