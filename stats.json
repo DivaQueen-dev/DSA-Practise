@@ -1,12 +1,12 @@
 {
-  "totalSolved": 237,
-  "currentStreak": 24,
+  "totalSolved": 238,
+  "currentStreak": 25,
   "maxStreak": 43,
-  "lastSyncDate": "2026-09-28",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 111,
-    "medium": 95,
+    "medium": 96,
     "hard": 5,
     "basic": 26
   },
@@ -247,7 +247,8 @@
     "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true,
     "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
     "LeetCode_Sliding_Window_Maximum": true,
-    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true
+    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
+    "LeetCode_Design_Linked_List": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -326,10 +327,10 @@
     "2026-09-25": 2,
     "2026-09-26": 1,
     "2026-09-27": 1,
-    "2026-09-28": 2
+    "2026-09-28": 2,
+    "2026-09-29": 1
   },
   "todayProblems": [
-    "Sliding Window Maximum",
-    "Maximum Nesting Depth of the Parentheses"
+    "Design Linked List"
   ]
 }

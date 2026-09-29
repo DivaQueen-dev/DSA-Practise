@@ -36,3 +36,4 @@
 | 34 | [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | 27 Sept 2026 | 08:39 pm |
 | 35 | [Sliding Window Maximum](./LeetCode/Hard/Sliding%20Window%20Maximum) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) | Hard | 28 Sept 2026 | 03:25 pm |
 | 36 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 07:58 pm |
+| 37 | [Design Linked List](./LeetCode/Medium/Design%20Linked%20List) | [LeetCode](https://leetcode.com/problems/design-linked-list/) | Medium | 29 Sept 2026 | 03:08 pm |
