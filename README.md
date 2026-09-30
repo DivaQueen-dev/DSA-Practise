@@ -39,3 +39,4 @@
 | 37 | [Design Linked List](./LeetCode/Medium/Design%20Linked%20List) | [LeetCode](https://leetcode.com/problems/design-linked-list/) | Medium | 29 Sept 2026 | 03:08 pm |
 | 38 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 29 Sept 2026 | 03:44 pm |
 | 39 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./LeetCode/Medium/Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 30 Sept 2026 | 09:52 pm |
+| 40 | [Nth Fibonacci Number](./GeeksForGeeks/Medium/Nth%20Fibonacci%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1?selectedLang=cpp) | Medium | 30 Sept 2026 | 10:00 pm |
