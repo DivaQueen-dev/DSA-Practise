@@ -1,11 +1,11 @@
 {
-  "totalSolved": 244,
+  "totalSolved": 245,
   "currentStreak": 28,
   "maxStreak": 43,
   "lastSyncDate": "2026-10-02",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 112,
+    "easy": 113,
     "medium": 100,
     "hard": 5,
     "basic": 27
@@ -254,7 +254,8 @@
     "GeeksForGeeks_Nth_Fibonacci_Number": true,
     "GeeksForGeeks_Minimum_Time_to_Finish_Project": true,
     "GeeksForGeeks_Reverse_a_String": true,
-    "LeetCode_Reverse_Words_in_a_String": true
+    "LeetCode_Reverse_Words_in_a_String": true,
+    "LeetCode_Reverse_Words_in_a_String_III": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -337,10 +338,11 @@
     "2026-09-29": 2,
     "2026-09-30": 2,
     "2026-10-01": 1,
-    "2026-10-02": 2
+    "2026-10-02": 3
   },
   "todayProblems": [
     "Reverse a String",
-    "Reverse Words in a String"
+    "Reverse Words in a String",
+    "Reverse Words in a String III"
   ]
 }
