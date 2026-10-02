@@ -42,3 +42,4 @@
 | 40 | [Nth Fibonacci Number](./GeeksForGeeks/Medium/Nth%20Fibonacci%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1?selectedLang=cpp) | Medium | 30 Sept 2026 | 10:00 pm |
 | 41 | [Minimum Time to Finish Project](./GeeksForGeeks/Medium/Minimum%20Time%20to%20Finish%20Project) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/project-manager--141631/1) | Medium | 01 Oct 2026 | 09:23 pm |
 | 42 | [Reverse a String](./GeeksForGeeks/Basic/Reverse%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | Basic | 02 Oct 2026 | 11:07 am |
+| 43 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 02 Oct 2026 | 11:45 am |

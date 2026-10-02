@@ -1,12 +1,12 @@
 {
-  "totalSolved": 243,
+  "totalSolved": 244,
   "currentStreak": 28,
   "maxStreak": 43,
   "lastSyncDate": "2026-10-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 112,
-    "medium": 99,
+    "medium": 100,
     "hard": 5,
     "basic": 27
   },
@@ -253,7 +253,8 @@
     "LeetCode_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings": true,
     "GeeksForGeeks_Nth_Fibonacci_Number": true,
     "GeeksForGeeks_Minimum_Time_to_Finish_Project": true,
-    "GeeksForGeeks_Reverse_a_String": true
+    "GeeksForGeeks_Reverse_a_String": true,
+    "LeetCode_Reverse_Words_in_a_String": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -336,9 +337,10 @@
     "2026-09-29": 2,
     "2026-09-30": 2,
     "2026-10-01": 1,
-    "2026-10-02": 1
+    "2026-10-02": 2
   },
   "todayProblems": [
-    "Reverse a String"
+    "Reverse a String",
+    "Reverse Words in a String"
   ]
 }
