@@ -44,3 +44,4 @@
 | 42 | [Reverse a String](./GeeksForGeeks/Basic/Reverse%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | Basic | 02 Oct 2026 | 11:07 am |
 | 43 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 02 Oct 2026 | 11:45 am |
 | 44 | [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | 02 Oct 2026 | 11:49 am |
+| 45 | [String Compression](./LeetCode/Medium/String%20Compression) | [LeetCode](https://leetcode.com/problems/string-compression/) | Medium | 02 Oct 2026 | 05:52 pm |
