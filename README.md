@@ -45,3 +45,4 @@
 | 43 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 02 Oct 2026 | 11:45 am |
 | 44 | [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | 02 Oct 2026 | 11:49 am |
 | 45 | [String Compression](./LeetCode/Medium/String%20Compression) | [LeetCode](https://leetcode.com/problems/string-compression/) | Medium | 02 Oct 2026 | 05:52 pm |
+| 46 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 04 Oct 2026 | 09:02 am |
