@@ -1,12 +1,12 @@
 {
-  "totalSolved": 247,
-  "currentStreak": 1,
+  "totalSolved": 248,
+  "currentStreak": 2,
   "maxStreak": 43,
-  "lastSyncDate": "2026-10-04",
+  "lastSyncDate": "2026-10-05",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 114,
-    "medium": 101,
+    "medium": 102,
     "hard": 5,
     "basic": 27
   },
@@ -257,7 +257,8 @@
     "LeetCode_Reverse_Words_in_a_String": true,
     "LeetCode_Reverse_Words_in_a_String_III": true,
     "LeetCode_String_Compression": true,
-    "LeetCode_First_Unique_Character_in_a_String": true
+    "LeetCode_First_Unique_Character_in_a_String": true,
+    "LeetCode_Score_of_Parentheses": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -341,9 +342,10 @@
     "2026-09-30": 2,
     "2026-10-01": 1,
     "2026-10-02": 4,
-    "2026-10-04": 1
+    "2026-10-04": 1,
+    "2026-10-05": 1
   },
   "todayProblems": [
-    "First Unique Character in a String"
+    "Score of Parentheses"
   ]
 }
