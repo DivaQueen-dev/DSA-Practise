@@ -47,3 +47,4 @@
 | 45 | [String Compression](./LeetCode/Medium/String%20Compression) | [LeetCode](https://leetcode.com/problems/string-compression/) | Medium | 02 Oct 2026 | 05:52 pm |
 | 46 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 04 Oct 2026 | 09:02 am |
 | 47 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 07:16 pm |
+| 48 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 06 Oct 2026 | 07:06 pm |
