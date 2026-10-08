@@ -55,6 +55,7 @@ After removing outer parentheses of each part, this is &quot;&quot; + &quot;&quo
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
+---
 
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
