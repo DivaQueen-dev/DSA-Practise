@@ -50,3 +50,4 @@
 | 48 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 06 Oct 2026 | 07:06 pm |
 | 49 | [Simplify Path](./LeetCode/Medium/Simplify%20Path) | [LeetCode](https://leetcode.com/problems/simplify-path/) | Medium | 07 Oct 2026 | 03:56 pm |
 | 50 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 08 Oct 2026 | 07:58 pm |
+| 51 | [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) | [LeetCode](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 09 Oct 2026 | 09:04 pm |
