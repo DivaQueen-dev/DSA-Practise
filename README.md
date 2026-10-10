@@ -51,3 +51,4 @@
 | 49 | [Simplify Path](./LeetCode/Medium/Simplify%20Path) | [LeetCode](https://leetcode.com/problems/simplify-path/) | Medium | 07 Oct 2026 | 03:56 pm |
 | 50 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 08 Oct 2026 | 07:58 pm |
 | 51 | [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) | [LeetCode](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 09 Oct 2026 | 09:04 pm |
+| 52 | [Number of Students Unable to Eat Lunch](./LeetCode/Easy/Number%20of%20Students%20Unable%20to%20Eat%20Lunch) | [LeetCode](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | 10 Oct 2026 | 08:49 pm |
