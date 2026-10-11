@@ -1,11 +1,11 @@
 {
-  "totalSolved": 253,
-  "currentStreak": 7,
+  "totalSolved": 254,
+  "currentStreak": 8,
   "maxStreak": 43,
-  "lastSyncDate": "2026-10-10",
+  "lastSyncDate": "2026-10-11",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 118,
+    "easy": 119,
     "medium": 103,
     "hard": 5,
     "basic": 27
@@ -263,7 +263,8 @@
     "LeetCode_Simplify_Path": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
     "LeetCode_Number_of_Recent_Calls": true,
-    "LeetCode_Number_of_Students_Unable_to_Eat_Lunch": true
+    "LeetCode_Number_of_Students_Unable_to_Eat_Lunch": true,
+    "LeetCode_Sum_of_Squares_of_Special_Elements_": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -353,9 +354,10 @@
     "2026-10-07": 1,
     "2026-10-08": 1,
     "2026-10-09": 1,
-    "2026-10-10": 1
+    "2026-10-10": 1,
+    "2026-10-11": 1
   },
   "todayProblems": [
-    "Number of Students Unable to Eat Lunch"
+    "Sum of Squares of Special Elements "
   ]
 }
