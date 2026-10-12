@@ -53,3 +53,4 @@
 | 51 | [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) | [LeetCode](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 09 Oct 2026 | 09:04 pm |
 | 52 | [Number of Students Unable to Eat Lunch](./LeetCode/Easy/Number%20of%20Students%20Unable%20to%20Eat%20Lunch) | [LeetCode](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | 10 Oct 2026 | 08:49 pm |
 | 53 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 08:41 am |
+| 54 | [Flatten Nested List Iterator](./LeetCode/Medium/Flatten%20Nested%20List%20Iterator) | [LeetCode](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | 12 Oct 2026 | 01:06 pm |
