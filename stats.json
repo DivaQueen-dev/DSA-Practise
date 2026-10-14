@@ -1,12 +1,12 @@
 {
-  "totalSolved": 255,
-  "currentStreak": 9,
+  "totalSolved": 256,
+  "currentStreak": 1,
   "maxStreak": 43,
-  "lastSyncDate": "2026-10-12",
+  "lastSyncDate": "2026-10-14",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 119,
-    "medium": 104,
+    "medium": 105,
     "hard": 5,
     "basic": 27
   },
@@ -265,7 +265,8 @@
     "LeetCode_Number_of_Recent_Calls": true,
     "LeetCode_Number_of_Students_Unable_to_Eat_Lunch": true,
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
-    "LeetCode_Flatten_Nested_List_Iterator": true
+    "LeetCode_Flatten_Nested_List_Iterator": true,
+    "GeeksForGeeks_Longest_Repeating_Character_Replacement": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -357,9 +358,10 @@
     "2026-10-09": 1,
     "2026-10-10": 1,
     "2026-10-11": 1,
-    "2026-10-12": 1
+    "2026-10-12": 1,
+    "2026-10-14": 1
   },
   "todayProblems": [
-    "Flatten Nested List Iterator"
+    "Longest Repeating Character Replacement"
   ]
 }
