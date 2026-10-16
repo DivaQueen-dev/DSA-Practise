@@ -55,3 +55,4 @@
 | 53 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 08:41 am |
 | 54 | [Flatten Nested List Iterator](./LeetCode/Medium/Flatten%20Nested%20List%20Iterator) | [LeetCode](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | 12 Oct 2026 | 01:06 pm |
 | 55 | [Longest Repeating Character Replacement](./GeeksForGeeks/Medium/Longest%20Repeating%20Character%20Replacement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1) | Medium | 14 Oct 2026 | 06:25 pm |
+| 56 | [Check if Array Is Sorted and Rotated](./LeetCode/Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated) | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | 16 Oct 2026 | 07:39 pm |
