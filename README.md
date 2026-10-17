@@ -56,3 +56,4 @@
 | 54 | [Flatten Nested List Iterator](./LeetCode/Medium/Flatten%20Nested%20List%20Iterator) | [LeetCode](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | 12 Oct 2026 | 01:06 pm |
 | 55 | [Longest Repeating Character Replacement](./GeeksForGeeks/Medium/Longest%20Repeating%20Character%20Replacement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1) | Medium | 14 Oct 2026 | 06:25 pm |
 | 56 | [Check if Array Is Sorted and Rotated](./LeetCode/Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated) | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | 16 Oct 2026 | 07:39 pm |
+| 57 | [Subarrays Distinct Element Sum of Squares I](./LeetCode/Easy/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | 17 Oct 2026 | 08:44 pm |
