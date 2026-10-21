@@ -1,12 +1,12 @@
 {
-  "totalSolved": 260,
-  "currentStreak": 4,
+  "totalSolved": 261,
+  "currentStreak": 1,
   "maxStreak": 43,
-  "lastSyncDate": "2026-10-19",
+  "lastSyncDate": "2026-10-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 123,
-    "medium": 105,
+    "medium": 106,
     "hard": 5,
     "basic": 27
   },
@@ -270,7 +270,8 @@
     "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
     "LeetCode_Earliest_Finish_Time_for_Land_and_Water_Rides_I": true,
-    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
+    "LeetCode_Rotate_List": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -367,9 +368,10 @@
     "2026-10-16": 1,
     "2026-10-17": 1,
     "2026-10-18": 1,
-    "2026-10-19": 1
+    "2026-10-19": 1,
+    "2026-10-21": 1
   },
   "todayProblems": [
-    "Find Target Indices After Sorting Array"
+    "Rotate List"
   ]
 }
