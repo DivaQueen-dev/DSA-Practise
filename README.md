@@ -61,3 +61,4 @@
 | 59 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 08:01 pm |
 | 60 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 21 Oct 2026 | 07:25 pm |
 | 61 | [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 22 Oct 2026 | 09:59 pm |
+| 62 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 23 Oct 2026 | 08:25 pm |
