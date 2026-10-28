@@ -1,12 +1,12 @@
 {
-  "totalSolved": 263,
-  "currentStreak": 3,
+  "totalSolved": 264,
+  "currentStreak": 1,
   "maxStreak": 43,
-  "lastSyncDate": "2026-10-23",
+  "lastSyncDate": "2026-10-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 124,
-    "medium": 107,
+    "medium": 108,
     "hard": 5,
     "basic": 27
   },
@@ -273,7 +273,8 @@
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
     "LeetCode_Rotate_List": true,
     "LeetCode_Swap_Nodes_in_Pairs": true,
-    "LeetCode_Contains_Duplicate_II": true
+    "LeetCode_Contains_Duplicate_II": true,
+    "LeetCode_Count_Subarrays_With_Loose_Bounds": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -373,9 +374,10 @@
     "2026-10-19": 1,
     "2026-10-21": 1,
     "2026-10-22": 1,
-    "2026-10-23": 1
+    "2026-10-23": 1,
+    "2026-10-28": 1
   },
   "todayProblems": [
-    "Contains Duplicate II"
+    "Count Subarrays With Loose Bounds"
   ]
 }
