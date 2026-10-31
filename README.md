@@ -63,3 +63,4 @@
 | 61 | [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 22 Oct 2026 | 09:59 pm |
 | 62 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 23 Oct 2026 | 08:25 pm |
 | 63 | [Count Subarrays With Loose Bounds](./LeetCode/Medium/Count%20Subarrays%20With%20Loose%20Bounds) | [LeetCode](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | Medium | 28 Oct 2026 | 08:33 pm |
+| 64 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 31 Oct 2026 | 06:41 pm |
