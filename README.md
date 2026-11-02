@@ -65,3 +65,4 @@
 | 63 | [Count Subarrays With Loose Bounds](./LeetCode/Medium/Count%20Subarrays%20With%20Loose%20Bounds) | [LeetCode](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | Medium | 28 Oct 2026 | 08:33 pm |
 | 64 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 31 Oct 2026 | 06:41 pm |
 | 65 | [Minimum Value of Merged Integers](./LeetCode/Easy/Minimum%20Value%20of%20Merged%20Integers) | [LeetCode](https://leetcode.com/problems/minimum-value-of-merged-integers/) | Easy | 01 Nov 2026 | 08:25 pm |
+| 66 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 08:50 pm |
