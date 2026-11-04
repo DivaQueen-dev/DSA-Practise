@@ -1,12 +1,12 @@
 {
-  "totalSolved": 268,
-  "currentStreak": 4,
+  "totalSolved": 269,
+  "currentStreak": 5,
   "maxStreak": 43,
-  "lastSyncDate": "2026-11-03",
+  "lastSyncDate": "2026-11-04",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 127,
-    "medium": 109,
+    "medium": 110,
     "hard": 5,
     "basic": 27
   },
@@ -278,7 +278,8 @@
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
     "LeetCode_Minimum_Value_of_Merged_Integers": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
-    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
+    "LeetCode_Minimize_the_Maximum_Value_of_GCD-Connected_Array": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -383,9 +384,10 @@
     "2026-10-31": 1,
     "2026-11-01": 1,
     "2026-11-02": 1,
-    "2026-11-03": 1
+    "2026-11-03": 1,
+    "2026-11-04": 1
   },
   "todayProblems": [
-    "Minimum Moves to Equal Array Elements III"
+    "Minimize the Maximum Value of GCD-Connected Array"
   ]
 }
