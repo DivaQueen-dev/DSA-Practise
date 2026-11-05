@@ -68,3 +68,4 @@
 | 66 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 08:50 pm |
 | 67 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 09:27 pm |
 | 68 | [Minimize the Maximum Value of GCD-Connected Array](./LeetCode/Medium/Minimize%20the%20Maximum%20Value%20of%20GCD-Connected%20Array) | [LeetCode](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) | Medium | 04 Nov 2026 | 11:44 am |
+| 69 | [Calculator](./GeeksForGeeks/Medium/Calculator) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/calculator--172632/1) | Medium | 05 Nov 2026 | 07:33 pm |
