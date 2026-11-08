@@ -1,12 +1,12 @@
 {
-  "totalSolved": 271,
-  "currentStreak": 1,
+  "totalSolved": 272,
+  "currentStreak": 2,
   "maxStreak": 43,
-  "lastSyncDate": "2026-11-07",
+  "lastSyncDate": "2026-11-08",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 128,
-    "medium": 111,
+    "medium": 112,
     "hard": 5,
     "basic": 27
   },
@@ -281,7 +281,8 @@
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
     "LeetCode_Minimize_the_Maximum_Value_of_GCD-Connected_Array": true,
     "GeeksForGeeks_Calculator": true,
-    "LeetCode_Longest_Harmonious_Subsequence": true
+    "LeetCode_Longest_Harmonious_Subsequence": true,
+    "LeetCode_Find_Mismatched_Segments_Between_Two_Strings": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -389,9 +390,10 @@
     "2026-11-03": 1,
     "2026-11-04": 1,
     "2026-11-05": 1,
-    "2026-11-07": 1
+    "2026-11-07": 1,
+    "2026-11-08": 1
   },
   "todayProblems": [
-    "Longest Harmonious Subsequence"
+    "Find Mismatched Segments Between Two Strings"
   ]
 }

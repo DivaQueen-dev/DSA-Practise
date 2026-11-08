@@ -70,3 +70,4 @@
 | 68 | [Minimize the Maximum Value of GCD-Connected Array](./LeetCode/Medium/Minimize%20the%20Maximum%20Value%20of%20GCD-Connected%20Array) | [LeetCode](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) | Medium | 04 Nov 2026 | 11:44 am |
 | 69 | [Calculator](./GeeksForGeeks/Medium/Calculator) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/calculator--172632/1) | Medium | 05 Nov 2026 | 07:33 pm |
 | 70 | [Longest Harmonious Subsequence](./LeetCode/Easy/Longest%20Harmonious%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-harmonious-subsequence/) | Easy | 07 Nov 2026 | 09:13 pm |
+| 71 | [Find Mismatched Segments Between Two Strings](./LeetCode/Medium/Find%20Mismatched%20Segments%20Between%20Two%20Strings) | [LeetCode](https://leetcode.com/problems/find-mismatched-segments-between-two-strings/) | Medium | 08 Nov 2026 | 06:49 pm |
