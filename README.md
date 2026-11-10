@@ -72,3 +72,4 @@
 | 70 | [Longest Harmonious Subsequence](./LeetCode/Easy/Longest%20Harmonious%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-harmonious-subsequence/) | Easy | 07 Nov 2026 | 09:13 pm |
 | 71 | [Find Mismatched Segments Between Two Strings](./LeetCode/Medium/Find%20Mismatched%20Segments%20Between%20Two%20Strings) | [LeetCode](https://leetcode.com/problems/find-mismatched-segments-between-two-strings/) | Medium | 08 Nov 2026 | 06:49 pm |
 | 72 | [Generate Usernames](./GeeksForGeeks/Medium/Generate%20Usernames) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/new-registration-system--150419/1) | Medium | 09 Nov 2026 | 09:33 pm |
+| 73 | [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | 10 Nov 2026 | 07:21 pm |
