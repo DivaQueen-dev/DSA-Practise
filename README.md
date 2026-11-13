@@ -74,3 +74,4 @@
 | 72 | [Generate Usernames](./GeeksForGeeks/Medium/Generate%20Usernames) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/new-registration-system--150419/1) | Medium | 09 Nov 2026 | 09:33 pm |
 | 73 | [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | 10 Nov 2026 | 07:21 pm |
 | 74 | [Is Linked List Length Even](./GeeksForGeeks/Medium/Is%20Linked%20List%20Length%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | Medium | 11 Nov 2026 | 09:01 pm |
+| 75 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 13 Nov 2026 | 07:55 pm |

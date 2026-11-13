@@ -1,11 +1,11 @@
 {
-  "totalSolved": 275,
-  "currentStreak": 5,
+  "totalSolved": 276,
+  "currentStreak": 1,
   "maxStreak": 43,
-  "lastSyncDate": "2026-11-11",
+  "lastSyncDate": "2026-11-13",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 129,
+    "easy": 130,
     "medium": 114,
     "hard": 5,
     "basic": 27
@@ -285,7 +285,8 @@
     "LeetCode_Find_Mismatched_Segments_Between_Two_Strings": true,
     "GeeksForGeeks_Generate_Usernames": true,
     "LeetCode_Maximum_Number_of_Balloons": true,
-    "GeeksForGeeks_Is_Linked_List_Length_Even": true
+    "GeeksForGeeks_Is_Linked_List_Length_Even": true,
+    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -397,9 +398,10 @@
     "2026-11-08": 1,
     "2026-11-09": 1,
     "2026-11-10": 1,
-    "2026-11-11": 1
+    "2026-11-11": 1,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Is Linked List Length Even"
+    "Longest Strictly Increasing or Strictly Decreasing Subarray"
   ]
 }
