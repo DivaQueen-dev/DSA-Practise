@@ -75,3 +75,4 @@
 | 73 | [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | 10 Nov 2026 | 07:21 pm |
 | 74 | [Is Linked List Length Even](./GeeksForGeeks/Medium/Is%20Linked%20List%20Length%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | Medium | 11 Nov 2026 | 09:01 pm |
 | 75 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 13 Nov 2026 | 07:55 pm |
+| 76 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 14 Nov 2026 | 10:52 pm |
