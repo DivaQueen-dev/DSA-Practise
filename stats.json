@@ -1,12 +1,12 @@
 {
-  "totalSolved": 278,
-  "currentStreak": 3,
+  "totalSolved": 279,
+  "currentStreak": 4,
   "maxStreak": 43,
-  "lastSyncDate": "2026-11-15",
+  "lastSyncDate": "2026-11-16",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 131,
-    "medium": 115,
+    "medium": 116,
     "hard": 5,
     "basic": 27
   },
@@ -288,7 +288,8 @@
     "GeeksForGeeks_Is_Linked_List_Length_Even": true,
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
-    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true
+    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
+    "GeeksForGeeks_Merge_Two_Sorted_Linked_Lists": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -403,9 +404,10 @@
     "2026-11-11": 1,
     "2026-11-13": 1,
     "2026-11-14": 1,
-    "2026-11-15": 1
+    "2026-11-15": 1,
+    "2026-11-16": 1
   },
   "todayProblems": [
-    "Number of Substrings Containing All Three Characters"
+    "Merge Two Sorted Linked Lists"
   ]
 }
