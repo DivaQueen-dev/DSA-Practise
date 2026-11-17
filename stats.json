@@ -1,11 +1,11 @@
 {
-  "totalSolved": 279,
-  "currentStreak": 4,
+  "totalSolved": 280,
+  "currentStreak": 5,
   "maxStreak": 43,
-  "lastSyncDate": "2026-11-16",
+  "lastSyncDate": "2026-11-17",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 131,
+    "easy": 132,
     "medium": 116,
     "hard": 5,
     "basic": 27
@@ -289,7 +289,8 @@
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
-    "GeeksForGeeks_Merge_Two_Sorted_Linked_Lists": true
+    "GeeksForGeeks_Merge_Two_Sorted_Linked_Lists": true,
+    "LeetCode_Calculate_Digit_Sum_of_a_String": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -405,9 +406,10 @@
     "2026-11-13": 1,
     "2026-11-14": 1,
     "2026-11-15": 1,
-    "2026-11-16": 1
+    "2026-11-16": 1,
+    "2026-11-17": 1
   },
   "todayProblems": [
-    "Merge Two Sorted Linked Lists"
+    "Calculate Digit Sum of a String"
   ]
 }

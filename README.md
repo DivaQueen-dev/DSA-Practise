@@ -78,3 +78,4 @@
 | 76 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 14 Nov 2026 | 10:52 pm |
 | 77 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 15 Nov 2026 | 08:57 pm |
 | 78 | [Merge Two Sorted Linked Lists](./GeeksForGeeks/Medium/Merge%20Two%20Sorted%20Linked%20Lists) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1) | Medium | 16 Nov 2026 | 09:36 pm |
+| 79 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 17 Nov 2026 | 09:55 pm |
