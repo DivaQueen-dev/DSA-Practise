@@ -1,12 +1,12 @@
 {
-  "totalSolved": 281,
-  "currentStreak": 6,
+  "totalSolved": 282,
+  "currentStreak": 7,
   "maxStreak": 43,
-  "lastSyncDate": "2026-11-18",
+  "lastSyncDate": "2026-11-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 132,
-    "medium": 117,
+    "medium": 118,
     "hard": 5,
     "basic": 27
   },
@@ -291,7 +291,8 @@
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
     "GeeksForGeeks_Merge_Two_Sorted_Linked_Lists": true,
     "LeetCode_Calculate_Digit_Sum_of_a_String": true,
-    "GeeksForGeeks_Remove_Duplicates_from_Linked_List": true
+    "GeeksForGeeks_Remove_Duplicates_from_Linked_List": true,
+    "GeeksForGeeks_Cycle_Length_in_Linked_List": true
   },
   "activityHistory": {
     "2026-07-11": 23,
@@ -409,9 +410,10 @@
     "2026-11-15": 1,
     "2026-11-16": 1,
     "2026-11-17": 1,
-    "2026-11-18": 1
+    "2026-11-18": 1,
+    "2026-11-19": 1
   },
   "todayProblems": [
-    "Remove Duplicates from Linked List"
+    "Cycle Length in Linked List"
   ]
 }

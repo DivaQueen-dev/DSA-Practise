@@ -80,3 +80,4 @@
 | 78 | [Merge Two Sorted Linked Lists](./GeeksForGeeks/Medium/Merge%20Two%20Sorted%20Linked%20Lists) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1) | Medium | 16 Nov 2026 | 09:36 pm |
 | 79 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 17 Nov 2026 | 09:55 pm |
 | 80 | [Remove Duplicates from Linked List](./GeeksForGeeks/Medium/Remove%20Duplicates%20from%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) | Medium | 18 Nov 2026 | 09:35 pm |
+| 81 | [Cycle Length in Linked List](./GeeksForGeeks/Medium/Cycle%20Length%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Medium | 19 Nov 2026 | 08:30 pm |
