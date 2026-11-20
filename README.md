@@ -81,3 +81,4 @@
 | 79 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 17 Nov 2026 | 09:55 pm |
 | 80 | [Remove Duplicates from Linked List](./GeeksForGeeks/Medium/Remove%20Duplicates%20from%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) | Medium | 18 Nov 2026 | 09:35 pm |
 | 81 | [Cycle Length in Linked List](./GeeksForGeeks/Medium/Cycle%20Length%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Medium | 19 Nov 2026 | 08:30 pm |
+| 82 | [Minimum Number of Days to Make m Bouquets](./LeetCode/Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | 20 Nov 2026 | 10:03 pm |
